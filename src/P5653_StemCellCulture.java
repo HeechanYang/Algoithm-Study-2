@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
  * 5653. [모의 SW 역량테스트] 줄기세포배양
  */
 
-public class P5353_StemCellCulture {
+public class P5653_StemCellCulture {
 
     public static void main(String[] args) throws IOException {
         try (final BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
