@@ -35,7 +35,7 @@ public class P5353_StemCellCulture {
                     for (int k = 0; k < M; k++) {
                         int value = Integer.parseInt(tokenizer2.nextToken());
                         plate[startYPoint + j][startXPoint + k] = value;
-                        timeAttack[startYPoint + j][startXPoint + k] = value;
+                        timeAttack[startYPoint + j][startXPoint + k] = value * 2;
                     }
                 }
 
@@ -60,7 +60,7 @@ public class P5353_StemCellCulture {
             for (int j = 0; j < yLength; j++) {
                 for (int k = 0; k < xLength; k++) {
                     int thisValue = plate[j][k];
-                    if (thisValue != 0 && timeAttack[j][k] == -1) {
+                    if (thisValue != 0 && timeAttack[j][k] == (thisValue - 1) ) {
                         int[] xArr = new int[]{k - 1, k + 1, k, k};
                         int[] yArr = new int[]{j, j, j - 1, j + 1};
                         for (int a = 0; a < 4; a++) {
@@ -68,13 +68,12 @@ public class P5353_StemCellCulture {
                             int targetY = yArr[a];
                             int targetPlate = plate[targetY][targetX];
                             int targetTimeAttack = timeAttack[targetY][targetX];
-                            // 아직 초기화되지 않았거나
-                            // 같은 시간에 초기화 되었지만 지금 값이 더 크면
-                            // 지금 값으로 초기화
+                            // 아직 초기화 되어있지 않으면 '증식'
+                            // '같은 시간'에 초기화 되었지만, 해당 세포의 값보다 세포값이 작다면 '덮어씀'
                             if (targetPlate == 0
-                                    || ((targetTimeAttack == (targetPlate)) && (targetPlate < thisValue))) {
+                                    || ((targetTimeAttack == targetPlate * 2) && (targetPlate < thisValue))) {
                                 plate[targetY][targetX] = thisValue;
-                                timeAttack[targetY][targetX] = thisValue;
+                                timeAttack[targetY][targetX] = thisValue * 2;
                             }
                         }
                     }
@@ -85,7 +84,7 @@ public class P5353_StemCellCulture {
         int cnt = 0;
         for (int j = 0; j < yLength; j++) {
             for (int k = 0; k < xLength; k++) {
-                if (timeAttack[j][k] > (-1 * plate[j][k]) && plate[j][k] != 0)
+                if (timeAttack[j][k] > 0 && plate[j][k] != 0)
                     cnt++;
             }
         }

@@ -1,2 +1,9 @@
-# Algoithm-Study-2
-Algorithm Study 2
+# 알고리즘 스터디
+알고리즘 스터디를 진행하면서 풀었던 문제들을 기록하자  
+
+문제 출처 : https://swexpertacademy.com
+
+## 2018.11.22.
+- [5653. [모의 SW 역량테스트] 줄기세포배양](solving/2018_11_22_5653_StemCellCulture.md)
+
+    
