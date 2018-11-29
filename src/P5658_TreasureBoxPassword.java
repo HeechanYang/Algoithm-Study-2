@@ -14,7 +14,7 @@ public class P5658_TreasureBoxPassword {
         try (final BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
             int T = Integer.parseInt(br.readLine());
 
-            for(int i=1;i<=T;i++) {
+            for (int i = 1; i <= T; i++) {
                 StringTokenizer st = new StringTokenizer(br.readLine());
                 int N = Integer.parseInt(st.nextToken());
                 int K = Integer.parseInt(st.nextToken());
@@ -33,7 +33,7 @@ public class P5658_TreasureBoxPassword {
                 passwordLongList.sort(Collections.reverseOrder());
 
                 // K 번째 요소 출력
-                System.out.printf("#%d %d\n", i, passwordLongList.get(K-1));
+                System.out.printf("#%d %d\n", i, passwordLongList.get(K - 1));
             }
         }
     }

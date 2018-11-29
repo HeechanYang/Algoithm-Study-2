@@ -21,8 +21,8 @@ public class P5653_StemCellCulture {
                 int N = Integer.parseInt(tokenizer.nextToken());
                 int M = Integer.parseInt(tokenizer.nextToken());
                 int K = Integer.parseInt(tokenizer.nextToken());
-                int xLength = M + 2 * K;
-                int yLength = N + 2 * K;
+                int xLength = M + K;
+                int yLength = N + K;
 
                 int[][] plate = new int[yLength][xLength];
                 int[][] timeAttack = new int[yLength][xLength];

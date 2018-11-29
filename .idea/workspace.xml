@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/yhc94.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P5658_TreasureBoxPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P2383_LunchTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P5650_PinballGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/yhc94.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/yhc94.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/5653_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/P5353_StemCellCulture.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P5353_StemCellCulture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P5653_StemCellCulture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/P5653_StemCellCulture.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/P5653_StemCellCulture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/P5658_TreasureBoxPassword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/P5658_TreasureBoxPassword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solving/2018_11_22_5653_StemCellCulture.md" beforeDir="false" afterPath="$PROJECT_DIR$/solving/2018_11_22_5653_StemCellCulture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P5653_StemCellCulture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P5653_StemCellCulture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P5658_TreasureBoxPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P5658_TreasureBoxPassword.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/src/P5653_StemCellCulture.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="3" />
+              <caret line="14" selection-start-line="14" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -31,11 +36,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P5658_TreasureBoxPassword.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="P2383_LunchTime.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/P2383_LunchTime.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="670">
+              <caret line="103" column="5" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="103" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1743#1744#0" expanded="true" />
+                <element signature="e#1775#1776#0" expanded="true" />
+                <element signature="e#1810#1811#0" expanded="true" />
+                <element signature="e#1844#1845#0" expanded="true" />
+                <element signature="e#1873#1874#0" expanded="true" />
+                <element signature="e#1905#1906#0" expanded="true" />
+                <element signature="e#1940#1941#0" expanded="true" />
+                <element signature="e#1974#1975#0" expanded="true" />
+                <element signature="e#2067#2068#0" expanded="true" />
+                <element signature="e#2103#2104#0" expanded="true" />
+                <element signature="e#2146#2147#0" expanded="true" />
+                <element signature="e#2188#2189#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample_input_2383.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/input_sample/sample_input_2383.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="73" column="19" lean-forward="true" selection-end-line="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P5658_TreasureBoxPassword.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/P5658_TreasureBoxPassword.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="35" column="76" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="35" selection-end-column="76" />
+            <state relative-caret-position="190">
+              <caret line="13" column="61" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="90" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P5650_PinballGame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P5650_PinballGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,6 +107,7 @@
       <find>plate</find>
       <find>timeAttack</find>
       <find>,</find>
+      <find>proper</find>
     </findStrings>
     <replaceStrings>
       <replace>timeAttack</replace>
@@ -81,6 +132,10 @@
         <option value="$PROJECT_DIR$/src/P5353_StemCellCulture.java" />
         <option value="$PROJECT_DIR$/src/P5658.java" />
         <option value="$PROJECT_DIR$/src/P5658_TreasureBoxPassword.java" />
+        <option value="$PROJECT_DIR$/src/P5653_StemCellCulture.java" />
+        <option value="$PROJECT_DIR$/src/P5650_PinballGame.java" />
+        <option value="$PROJECT_DIR$/input_sample/sample_input_2383.txt" />
+        <option value="$PROJECT_DIR$/src/P2383_LunchTime.java" />
       </list>
     </option>
   </component>
@@ -107,6 +162,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,14 +174,17 @@
             <path>
               <item name="Algorithm Study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm Study" type="462c0819:PsiDirectoryNode" />
+              <item name="input_sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm Study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -147,7 +207,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P5658_TreasureBoxPassword">
+  <component name="RunManager" selected="Application.P2383_LunchTime">
+    <configuration name="P2383_LunchTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P2383_LunchTime" />
+      <module name="Algorithm Study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="P5650_PinballGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P5650_PinballGame" />
+      <module name="Algorithm Study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="P5653_StemCellCulture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P5653_StemCellCulture" />
       <module name="Algorithm Study" />
@@ -202,11 +272,15 @@
     <list>
       <item itemvalue="Application.P5653_StemCellCulture" />
       <item itemvalue="Application.P5658_TreasureBoxPassword" />
+      <item itemvalue="Application.P5650_PinballGame" />
+      <item itemvalue="Application.P2383_LunchTime" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P5658_TreasureBoxPassword" />
+        <item itemvalue="Application.P2383_LunchTime" />
+        <item itemvalue="Application.P5650_PinballGame" />
         <item itemvalue="Application.P5653_StemCellCulture" />
+        <item itemvalue="Application.P5658_TreasureBoxPassword" />
       </list>
     </recent_temporary>
   </component>
@@ -221,12 +295,17 @@
       <option name="presentableId" value="Default" />
       <updated>1542880656831</updated>
       <workItem from="1542880660914" duration="14408000" />
-      <workItem from="1542901909295" duration="2522000" />
+      <workItem from="1542901909295" duration="3437000" />
+      <workItem from="1542908631948" duration="489000" />
+      <workItem from="1542952948307" duration="8145000" />
+      <workItem from="1543059171049" duration="80000" />
+      <workItem from="1543416366593" duration="5000" />
+      <workItem from="1543494170391" duration="10657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16930000" />
+    <option name="totallyTimeSpent" value="37221000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -234,19 +313,19 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32952926" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="10" weight="0.467903" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.42225394" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.32905984" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2147651" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -271,15 +350,114 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/P5653_StemCellCulture.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        <state relative-caret-position="912">
+          <caret line="51" column="20" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/5653_input.txt" />
+    <entry file="file://$PROJECT_DIR$/src/P5658_TreasureBoxPassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="61" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P5650_PinballGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="52" column="66" selection-start-line="52" selection-start-column="66" selection-end-line="52" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P5653_StemCellCulture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="51" column="20" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P5658_TreasureBoxPassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="61" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P5650_PinballGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="52" column="66" selection-start-line="52" selection-start-column="66" selection-end-line="52" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P5653_StemCellCulture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P5658_TreasureBoxPassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="61" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P5650_PinballGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="52" column="66" selection-start-line="52" selection-start-column="66" selection-end-line="52" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P5653_StemCellCulture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P5658_TreasureBoxPassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/P5653_StemCellCulture.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -292,10 +470,94 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/P5658_TreasureBoxPassword.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="35" column="76" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="35" selection-end-column="76" />
+        <state relative-caret-position="627">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P5653_StemCellCulture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/5653_input.txt" />
+    <entry file="file://$PROJECT_DIR$/input_sample/sample_input_5653.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="10" lean-forward="true" selection-end-line="90" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tutoring/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="60" column="10" lean-forward="true" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P5650_PinballGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P5653_StemCellCulture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="14" selection-start-line="14" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P5658_TreasureBoxPassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="61" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_sample/sample_input_2383.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="73" column="19" lean-forward="true" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P2383_LunchTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="103" column="5" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="103" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1743#1744#0" expanded="true" />
+            <element signature="e#1775#1776#0" expanded="true" />
+            <element signature="e#1810#1811#0" expanded="true" />
+            <element signature="e#1844#1845#0" expanded="true" />
+            <element signature="e#1873#1874#0" expanded="true" />
+            <element signature="e#1905#1906#0" expanded="true" />
+            <element signature="e#1940#1941#0" expanded="true" />
+            <element signature="e#1974#1975#0" expanded="true" />
+            <element signature="e#2067#2068#0" expanded="true" />
+            <element signature="e#2103#2104#0" expanded="true" />
+            <element signature="e#2146#2147#0" expanded="true" />
+            <element signature="e#2188#2189#0" expanded="true" />
           </folding>
         </state>
       </provider>
