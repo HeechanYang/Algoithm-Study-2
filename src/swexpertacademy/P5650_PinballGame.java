@@ -1,3 +1,5 @@
+package swexpertacademy;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -41,7 +43,7 @@ public class P5650_PinballGame {
                 for (int i = 0; i < N; i++) {
                     for (int j = 0; j < N; j++) {
                         for (int k = 0; k < 4; k++) {
-                            // Ball 생성
+                            // swexpertacademy.Ball 생성
                             Ball ball = new Ball(j, i, DIRECTION_TYPE[k].getX(), DIRECTION_TYPE[k].getY());
 
                             //경로 체크를 위한 Stack
@@ -50,7 +52,7 @@ public class P5650_PinballGame {
                             while (!isEnd) {
                                 isEnd = false;
 
-//                                PinballObject.setBall(board,ball, );
+//                                swexpertacademy.PinballObject.setBall(board,ball, );
                             }
 
                             if (ball.getScore()>maxScore){
