@@ -4,11 +4,11 @@
 1. 각 톱니바퀴의 톱니 정보를 저장할 Gear class 생성
 ```java
 class Gear {
-    public static final int INDEX_RIGHT = 2;
-    public static final int INDEX_LEFT = 6;
     public static final int GEAR_SIZE = 8;
+    public static final int INDEX_RIGHT = GEAR_SIZE / 4;
+    public static final int INDEX_LEFT = GEAR_SIZE * 3 / 4;
 
-    private int[] magnets = new int[8];
+    private int[] magnets = new int[GEAR_SIZE];
 
     public int[] getMagnets() {
         return magnets;
@@ -46,14 +46,14 @@ class Gear {
 2. 4개의 톱니바퀴를 생성하여 입력 값에 따라 각 톱니바퀴의 톱니 값 지정
 ```java
 // 4개의 톱니바퀴 생성
-Gear[] gears = new Gear[4];
+Gear[] gears = new Gear[GEAR_COUNT];
 
 // 입력 값에 따라 각 톱니바퀴의 톱니 값 지정
-for (int j = 0; j < 4; j++) {
+for (int j = 0; j < GEAR_COUNT; j++) {
     gears[j] = new Gear();
 
     StringTokenizer st = new StringTokenizer(br.readLine());
-    for (int m = 0; m < 8; m++) {
+    for (int m = 0; m < GEAR_SIZE; m++) {
         gears[j].getMagnets()[m] = Integer.parseInt(st.nextToken());
     }
 }
