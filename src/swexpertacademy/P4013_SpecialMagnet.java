@@ -23,8 +23,10 @@ public class P4013_SpecialMagnet {
             for (int i = 0; i < T; i++) {
                 int K = Integer.parseInt(br.readLine());
 
+                // 4개의 톱니바퀴 생성
                 Gear[] gears = new Gear[4];
 
+                // 입력 값에 따라 각 톱니바퀴의 톱니 값 지정
                 for (int j = 0; j < 4; j++) {
                     gears[j] = new Gear();
 
@@ -34,6 +36,7 @@ public class P4013_SpecialMagnet {
                     }
                 }
 
+                // 매 회 회전을 처리
                 for (int j = 0; j < K; j++) {
                     StringTokenizer st = new StringTokenizer(br.readLine());
                     int gearNum = Integer.parseInt(st.nextToken()) - 1;
@@ -41,45 +44,49 @@ public class P4013_SpecialMagnet {
 
                     rotateGears(gears, gearNum, gearNum, direction);
                 }
+
+                // 결과값 출력
                 System.out.printf("#%d %d\n", i + 1, getGearsScore(gears));
             }
         }
     }
 
+    // 톱니들의 연쇄적 회전을 처리
     public static void rotateGears(Gear[] gears, int firstGearNum, int gearNum, int direction) {
         int beforeGearNum = gearNum - 1;
         int nextGearNum = gearNum + 1;
 
+        // 해당 톱니바퀴가 회전의 시작이라면 양 옆의 톱니바퀴를 처리
         if (firstGearNum == gearNum) {
-            //left
-            if (gearNum > 0) {
+            if (gearNum > 0) {                  // left
                 if (gears[beforeGearNum].getRight() != gears[gearNum].getLeft()) {
                     rotateGears(gears, firstGearNum, beforeGearNum, -direction);
                 }
             }
-            //right
-            if (gearNum < 3) {
+            if (gearNum < 3) {                  //right
                 if (gears[gearNum].getRight() != gears[nextGearNum].getLeft()) {
                     rotateGears(gears, firstGearNum, nextGearNum, -direction);
                 }
             }
-        } else if (firstGearNum > gearNum) {    // left
-            if (gearNum > 0) {
+        } else if (firstGearNum > gearNum) {    // 왼쪽으로 퍼지는 회전이라면 왼쪽 톱니바퀴 처리
+            if (gearNum > 0) {                  // left
                 if (gears[beforeGearNum].getRight() != gears[gearNum].getLeft()) {
                     rotateGears(gears, firstGearNum, beforeGearNum, -direction);
                 }
             }
-        } else {                                // right
-            if (gearNum < 3) {
+        } else {                                // 오른쪽으로 퍼지는 회전이라면 오른쪽 톱니바퀴 처리
+            if (gearNum < 3) {                  // right
                 if (gears[gearNum].getRight() != gears[nextGearNum].getLeft()) {
                     rotateGears(gears, firstGearNum, nextGearNum, -direction);
                 }
             }
         }
 
+        // 마지막엔 해당 톱니바퀴를 처리
         gears[gearNum].rotate(direction);
     }
 
+    // 톱니바퀴들의 점수 합을 구함
     public static int getGearsScore(Gear[] gears) {
         int result = 0;
         for (int i = 0; i < gears.length; i++) {
@@ -113,6 +120,7 @@ public class P4013_SpecialMagnet {
             return this.magnets[INDEX_LEFT];
         }
 
+        // 주어진 방향으로 톱니바퀴회전
         public void rotate(int direction) {
             switch (direction) {
                 case DIRECTION_CLOCK:
