@@ -12,7 +12,7 @@
 
 ```java
 // 세로줄을 검사하기위해 90도 회전
-        int[][] rotatedLand = rotateLand(land);
+int[][] rotatedLand = rotateLand(land);
 ```
 
 4. 각 라인에 대해 활주로 건설이 가능한지 검사하는 메서드 생성
