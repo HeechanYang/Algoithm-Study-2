@@ -33,7 +33,6 @@ public class P4014_ConstructAirstrip {
                     }
                 }
 
-
                 // Print result
                 System.out.printf("#%d %d\n", (i + 1), solution(land, X));
             }
@@ -43,87 +42,85 @@ public class P4014_ConstructAirstrip {
     private static int solution(int[][] land, int X) {
         int N = land.length;
 
-        int[][] landCompareX = new int[N][N - 1];
-        int[][] landCompareY = new int[N][N - 1];
-
-        for (int i = 0; i < N; i++) {
-            String compareXStr = "";
-            String compareYStr = "";
-            for (int j = 0; j < N - 1; j++) {
-                int thisHeight = land[i][j];
-                int thisRowHeight = land[j][i];
-                int nextHeight = land[i][j + 1];
-                int nextRowHeight = land[j + 1][i];
-
-                //높아지면 +, 낮아지면 -
-                landCompareX[i][j] = nextHeight - thisHeight;
-                landCompareY[i][j] = nextRowHeight - thisRowHeight;
-                compareXStr += landCompareX[i][j] + " ";
-                compareYStr += landCompareY[i][j] + " ";
-            }
-            System.out.println(compareXStr);
-            System.out.println(compareYStr);
-            System.out.println();
-        }
-
         int cnt = 0;
 
+        // 세로줄을 검사하기위해 90도 회전
+        int[][] rotatedLand = rotateLand(land);
+
+        //가로세로 각 줄 체크
         for (int i = 0; i < N; i++) {
-            System.out.println("====="+i+"=====");
-            // 가로 활주로
-            if (isEnable(X, N, landCompareX[i])) {
-                cnt++;
-            }
-            // 세로 활주로
-            if (isEnable(X, N, landCompareY[i])) {
-                cnt++;
-            }
+            // 가로 i번째 줄 체크
+            if (isEnable(X, N, land[i])) cnt++;
+            // 세로 i번째 줄 체크
+            if (isEnable(X, N, rotatedLand[i])) cnt++;
         }
 
         return cnt;
     }
 
-    private static boolean isEnable(int X, int N, int[] lineCompare) {
-        int to = 0;
+    // 해당 라인에 활주로 건설 가능 여부를 반환하는 메서드
+    private static boolean isEnable(int X, int N, int[] line) {
+        int to = -1;
 
-        for (int j = 0; j < N - 1; j++) {
-            int value = lineCompare[j];
+        // 앞에서부터 차례대로 검사
+        for (int i = 0; i < N - 1; i++) {
+            int thisValue = line[i];
+            int nextValue = line[i + 1];
+            int sub = nextValue - thisValue;
 
-            if (Math.abs(value) > 1) {
-                System.out.println("Math.abs(value) > 1");
-                return false;
-            } else if (value == 1) {    // 높아지는 곳 (왼쪽 X 칸 체크)
-                if (j < X - 1) {
-                    System.out.println("j < X - 1");
+            switch (sub) {
+                case 0: // 평평한 경우
+                    break;
+                case 1: // 높이가 1 높아지는 경우. (왼쪽에 경사로를 놓아야함)
+                    // to까지는 경사로를 놓을 수 없기 때문에 false. (land를 넘어가거나, 이미 그 칸에 경사로가 있거나)
+                    if ((i - to) < X) {
+                        return false;
+                    }
+
+                    // i까지 경사로를 놓았으니 to값 변경
+                    to = i;
+                    break;
+                case -1: // 높이가 1 낮아지는 경우. (오른쪽에 경사로를 놓아야함)
+                    // land를 넘어가기 때문에 false.
+                    if (N - 1 < i + X) {
+                        return false;
+                    }
+                    // 오른쪽으로 X칸만큼 평평한지 체크
+                    for (int j = i + 1; j < i + X; j++) {
+                        int thisValueTemp = line[j];
+                        int nextValueTemp = line[j + 1];
+                        int subTemp = thisValueTemp - nextValueTemp;
+                        // 평평하지 않으면 false
+                        if (subTemp != 0) {
+                            return false;
+                        }
+                    }
+
+                    // (i + X)까지 경사로를 놓았으니 to값 변경
+                    to = i + X;
+                    i = to - 1;
+                    break;
+                default: // 높이차가 2이상인 경우 false
                     return false;
-                } else if (!isContinuousValueDuring(lineCompare, value, j - X, X)) {
-                    System.out.println("!isContinuousValueDuring(lineCompare, value, j - X, X)");
-                    return false;
-                } else if (j < to + X - 1) {
-                    System.out.println("j < to + X - 1");
-                    return false;
-                }
-            } else if (value == -1) { // 낮아지는 곳 (오른쪽 X 칸 체크)
-                if (j > N - X - 1) {
-                    System.out.println("j > N - X - 1");
-                    return false;
-                } else if (!isContinuousValueDuring(lineCompare, value, j, X)) {
-                    System.out.println("!isContinuousValueDuring(lineCompare, value, j, X)");
-                    return false;
-                }
-                to = j + X;
             }
         }
-        System.out.println("true");
+
         return true;
     }
 
-    private static boolean isContinuousValueDuring(int[] lineCompare, int value, int startIdx, int X) {
-        for (int i = startIdx + 1; i < startIdx + X; i++) {
-            if (lineCompare[i] != 0) {
-                return false;
+    //2차원 배열 회전
+    public static int[][] rotateLand(int[][] land) {
+        int lenX = land[0].length;
+        int lenY = land.length;
+
+        int[][] rotatedLand = new int[lenX][lenY];
+
+        for (int i = 0; i < lenX; i++) {
+            for (int j = 0; j < lenY; j++) {
+                rotatedLand[i][j] = land[j][lenX - i - 1];
             }
         }
-        return true;
+
+        return rotatedLand;
     }
 }
