@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/swexpertacademy/P4014_ConstructAirstrip_FAIL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P4013_SpecialMagnet$Gear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P4013_SpecialMagnet$Gear.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P4013_SpecialMagnet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P4013_SpecialMagnet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/swexpertacademy/P4014_ConstructAirstrip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swexpertacademy/P4014_ConstructAirstrip.java" afterDir="false" />
-    </list>
+    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,8 +27,8 @@
       <file leaf-file-name="P4014_ConstructAirstrip.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P4014_ConstructAirstrip.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+            <state relative-caret-position="266">
+              <caret line="47" column="47" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="47" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -323,7 +316,7 @@
       <workItem from="1543760998856" duration="1696000" />
       <workItem from="1544162077223" duration="5701000" />
       <workItem from="1544183301561" duration="7438000" />
-      <workItem from="1544359765548" duration="5029000" />
+      <workItem from="1544359765548" duration="5290000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 2383. LunchTime">
       <created>1543511605272</created>
@@ -374,14 +367,21 @@
       <option name="project" value="LOCAL" />
       <updated>1544188680586</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="[UPDATE] 4014. ConstructAirstrip Success">
+      <created>1544364861196</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1544364861196</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68674000" />
+    <option name="totallyTimeSpent" value="68935000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -393,12 +393,12 @@
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.39694658" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.5192582" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.32905984" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1977612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24899329" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -428,7 +428,8 @@
     <MESSAGE value="[ADD] 4013. SpecialMagnet" />
     <MESSAGE value="[FIX] 4013. SpecialMagnet" />
     <MESSAGE value="[ADD] 4014. ConstructAirstrip, But success only 40 cases out of 50." />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD] 4014. ConstructAirstrip, But success only 40 cases out of 50." />
+    <MESSAGE value="[UPDATE] 4014. ConstructAirstrip Success" />
+    <option name="LAST_COMMIT_MESSAGE" value="[UPDATE] 4014. ConstructAirstrip Success" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -815,8 +816,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P4014_ConstructAirstrip.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        <state relative-caret-position="266">
+          <caret line="47" column="47" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="47" selection-end-column="47" />
         </state>
       </provider>
     </entry>
