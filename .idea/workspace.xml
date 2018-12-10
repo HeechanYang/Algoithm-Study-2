@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="" />
+    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/swexpertacademy/P5656_BreakBrick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P4014_ConstructAirstrip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P4014_ConstructAirstrip.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,32 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="P4014_ConstructAirstrip_FAIL.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P4014_ConstructAirstrip_FAIL.java">
+      <file leaf-file-name="P5656_BreakBrick.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P5656_BreakBrick.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1091">
-              <caret line="96" column="17" selection-start-line="96" selection-start-column="17" selection-end-line="96" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="331">
+              <caret line="62" column="42" selection-end-line="189" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P4014_ConstructAirstrip.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P4014_ConstructAirstrip.java">
+      <file leaf-file-name="sample_input_5656.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/input_sample/sample_input_5656.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="47" column="47" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="47" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sample_input_4014.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/input_sample/sample_input_4014.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="100" column="33" selection-end-line="112" />
+            <state relative-caret-position="627">
+              <caret line="33" column="8" selection-end-line="63" />
             </state>
           </provider>
         </entry>
@@ -59,6 +52,7 @@
       <find>proper</find>
       <find>System.out.println</find>
       <find>System.out.print</find>
+      <find>print</find>
     </findStrings>
     <replaceStrings>
       <replace>timeAttack</replace>
@@ -97,6 +91,8 @@
         <option value="$PROJECT_DIR$/input_sample/sample_input_4014.txt" />
         <option value="$PROJECT_DIR$/src/swexpertacademy/P4014_ConstructAirstrip2.java" />
         <option value="$PROJECT_DIR$/src/swexpertacademy/P4014_ConstructAirstrip.java" />
+        <option value="$PROJECT_DIR$/input_sample/sample_input_5656.txt" />
+        <option value="$PROJECT_DIR$/src/swexpertacademy/P5656_BreakBrick.java" />
       </list>
     </option>
   </component>
@@ -110,10 +106,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="691" />
-    <option name="y" value="130" />
-    <option name="width" value="980" />
-    <option name="height" value="1038" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -123,7 +119,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,8 +160,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,7 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P4014_ConstructAirstrip2">
+  <component name="RunManager" selected="Application.P5656_BreakBrick">
     <configuration name="P2383_LunchTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="swexpertacademy.P2383_LunchTime" />
       <module name="Algorithm Study" />
@@ -229,10 +225,16 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="P5650_PinballGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swexpertacademy.P5650_PinballGame" />
+    <configuration name="P5656_BreakBrick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swexpertacademy.P5656_BreakBrick" />
       <module name="Algorithm Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swexpertacademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -276,19 +278,18 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.P5650_PinballGame" />
+      <item itemvalue="Application.P4014_ConstructAirstrip" />
       <item itemvalue="Application.P2383_LunchTime" />
       <item itemvalue="Application.P4013_SpecialMagnet" />
       <item itemvalue="Application.P4014_ConstructAirstrip_FAIL" />
-      <item itemvalue="Application.P4014_ConstructAirstrip2" />
+      <item itemvalue="Application.P5656_BreakBrick" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P4014_ConstructAirstrip2" />
+        <item itemvalue="Application.P5656_BreakBrick" />
         <item itemvalue="Application.P4014_ConstructAirstrip_FAIL" />
         <item itemvalue="Application.P4013_SpecialMagnet" />
         <item itemvalue="Application.P2383_LunchTime" />
-        <item itemvalue="Application.P5650_PinballGame" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +317,8 @@
       <workItem from="1543760998856" duration="1696000" />
       <workItem from="1544162077223" duration="5701000" />
       <workItem from="1544183301561" duration="7438000" />
-      <workItem from="1544359765548" duration="5290000" />
+      <workItem from="1544359765548" duration="19144000" />
+      <workItem from="1544423799274" duration="1674000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 2383. LunchTime">
       <created>1543511605272</created>
@@ -374,11 +376,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544364861196</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="[UPDATE] 4014. ConstructAirstrip Success, runtime : 162ms">
+      <created>1544384216187</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1544384216187</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68935000" />
+    <option name="totallyTimeSpent" value="84463000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -386,33 +395,64 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32952926" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="10" weight="0.5192582" />
       <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.41221374" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.32905984" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24899329" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.252349" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="4" side_tool="true" weight="0.32995737" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32952926" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3293348" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.41221374" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3293348" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1977612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32952926" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32905984" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -429,24 +469,11 @@
     <MESSAGE value="[FIX] 4013. SpecialMagnet" />
     <MESSAGE value="[ADD] 4014. ConstructAirstrip, But success only 40 cases out of 50." />
     <MESSAGE value="[UPDATE] 4014. ConstructAirstrip Success" />
-    <option name="LAST_COMMIT_MESSAGE" value="[UPDATE] 4014. ConstructAirstrip Success" />
+    <MESSAGE value="[UPDATE] 4014. ConstructAirstrip Success, runtime : 162ms" />
+    <option name="LAST_COMMIT_MESSAGE" value="[UPDATE] 4014. ConstructAirstrip Success, runtime : 162ms" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/input_sample/sample_input_4013.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="15" lean-forward="true" selection-end-line="139" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P2383_LunchTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P4013_SpecialMagnet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2451">
@@ -806,8 +833,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P4014_ConstructAirstrip_FAIL.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1091">
-          <caret line="96" column="17" selection-start-line="96" selection-start-column="17" selection-end-line="96" selection-end-column="17" />
+        <state relative-caret-position="559">
+          <caret line="110" column="35" lean-forward="true" selection-start-line="110" selection-start-column="35" selection-end-line="110" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -817,7 +844,21 @@
     <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P4014_ConstructAirstrip.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="47" column="47" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="47" selection-end-column="47" />
+          <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_sample/sample_input_5656.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="8" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P5656_BreakBrick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="62" column="42" selection-end-line="189" />
         </state>
       </provider>
     </entry>
