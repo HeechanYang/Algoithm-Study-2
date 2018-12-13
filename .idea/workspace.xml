@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/swexpertacademy/P5656_BreakBrick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swexpertacademy/P1240_SimpleBinaryPasswordCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swexpertacademy/P1242_PasswordCodeScan_FAIL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/yhc94.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/yhc94.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P4014_ConstructAirstrip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P4014_ConstructAirstrip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5656_BreakBrick$Bomb.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5656_BreakBrick$Bomb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5656_BreakBrick.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5656_BreakBrick.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,20 +20,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="P5656_BreakBrick.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P5656_BreakBrick.java">
+      <file leaf-file-name="P1242_PasswordCodeScan_FAIL.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P1242_PasswordCodeScan_FAIL.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="62" column="42" selection-end-line="189" />
+            <state relative-caret-position="111">
+              <caret line="144" column="27" selection-end-line="266" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sample_input_5656.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/input_sample/sample_input_5656.txt">
+      <file leaf-file-name="sample_input_1242.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/input_sample/sample_input_1242.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" column="8" selection-end-line="63" />
+            <state relative-caret-position="-95">
+              <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample_output.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/input_sample/sample_output.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -52,6 +64,9 @@
       <find>proper</find>
       <find>System.out.println</find>
       <find>System.out.print</find>
+      <find>18</find>
+      <find>18 50</find>
+      <find>pri</find>
       <find>print</find>
     </findStrings>
     <replaceStrings>
@@ -93,6 +108,11 @@
         <option value="$PROJECT_DIR$/src/swexpertacademy/P4014_ConstructAirstrip.java" />
         <option value="$PROJECT_DIR$/input_sample/sample_input_5656.txt" />
         <option value="$PROJECT_DIR$/src/swexpertacademy/P5656_BreakBrick.java" />
+        <option value="$PROJECT_DIR$/src/swexpertacademy/P1240_SimpleBinaryPasswordCode.java" />
+        <option value="$PROJECT_DIR$/input_sample/sample_input_1240.txt" />
+        <option value="$PROJECT_DIR$/input_sample/sample_output.txt" />
+        <option value="$PROJECT_DIR$/input_sample/sample_input_1242.txt" />
+        <option value="$PROJECT_DIR$/src/swexpertacademy/P1242_PasswordCodeScan.java" />
       </list>
     </option>
   </component>
@@ -108,8 +128,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="1939" />
-    <option name="height" value="1049" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -119,8 +139,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -133,11 +151,6 @@
               <item name="Algorithm Study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm Study" type="462c0819:PsiDirectoryNode" />
               <item name="input_sample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm Study" type="462c0819:PsiDirectoryNode" />
-              <item name="solving" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithm Study" type="b2602c69:ProjectViewProjectNode" />
@@ -160,6 +173,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,14 +201,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P5656_BreakBrick">
-    <configuration name="P2383_LunchTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swexpertacademy.P2383_LunchTime" />
-      <module name="Algorithm Study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="P4013_SpecialMagnet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swexpertacademy.P4013_SpecialMagnet" />
+  <component name="RunManager" selected="Application.P1242_PasswordCodeScan_FAIL">
+    <configuration name="P1240_SimpleBinaryPasswordCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swexpertacademy.P1240_SimpleBinaryPasswordCode" />
       <module name="Algorithm Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -203,8 +213,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="P4014_ConstructAirstrip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swexpertacademy.P4014_ConstructAirstrip" />
+    <configuration name="P1242_PasswordCodeScan_FAIL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swexpertacademy.P1242_PasswordCodeScan_FAIL" />
+      <module name="Algorithm Study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swexpertacademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="P4013_SpecialMagnet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swexpertacademy.P4013_SpecialMagnet" />
       <module name="Algorithm Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -278,18 +299,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.P4014_ConstructAirstrip" />
-      <item itemvalue="Application.P2383_LunchTime" />
       <item itemvalue="Application.P4013_SpecialMagnet" />
       <item itemvalue="Application.P4014_ConstructAirstrip_FAIL" />
       <item itemvalue="Application.P5656_BreakBrick" />
+      <item itemvalue="Application.P1240_SimpleBinaryPasswordCode" />
+      <item itemvalue="Application.P1242_PasswordCodeScan_FAIL" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1242_PasswordCodeScan_FAIL" />
+        <item itemvalue="Application.P1240_SimpleBinaryPasswordCode" />
         <item itemvalue="Application.P5656_BreakBrick" />
         <item itemvalue="Application.P4014_ConstructAirstrip_FAIL" />
         <item itemvalue="Application.P4013_SpecialMagnet" />
-        <item itemvalue="Application.P2383_LunchTime" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +340,8 @@
       <workItem from="1544162077223" duration="5701000" />
       <workItem from="1544183301561" duration="7438000" />
       <workItem from="1544359765548" duration="19144000" />
-      <workItem from="1544423799274" duration="1674000" />
+      <workItem from="1544423799274" duration="2279000" />
+      <workItem from="1544693447427" duration="20054000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 2383. LunchTime">
       <created>1543511605272</created>
@@ -387,7 +410,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84463000" />
+    <option name="totallyTimeSpent" value="105122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -395,25 +418,26 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3293348" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="10" visible="true" weight="0.41084164" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Run" order="10" weight="0.41221374" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.32905984" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.252349" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2557047" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -421,26 +445,25 @@
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32952926" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.3293348" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.41221374" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.3293348" />
+      <window_info anchor="bottom" id="Message" order="5" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1977612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.41221374" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.32952926" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.32905984" />
@@ -448,8 +471,8 @@
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info id="Capture Tool" order="5" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32952926" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3293348" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
@@ -474,64 +497,6 @@
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P4013_SpecialMagnet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2451">
-          <caret line="129" column="43" lean-forward="true" selection-start-line="129" selection-start-column="43" selection-end-line="129" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P5650_PinballGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3952">
-          <caret line="208" column="38" selection-start-line="208" selection-start-column="38" selection-end-line="208" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P5653_StemCellCulture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P2383_LunchTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input_sample/sample_input_2383.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1387">
-          <caret line="73" column="19" selection-end-line="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P5658_TreasureBoxPassword.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P5650_PinballGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3838">
-          <caret line="239" column="6" selection-start-line="239" selection-start-column="6" selection-end-line="239" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/baekjoon/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -571,9 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3933">
           <caret line="239" column="6" selection-start-line="239" selection-start-column="6" selection-end-line="239" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -609,9 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1140">
           <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -640,9 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="893">
           <caret line="52" column="66" selection-start-line="52" selection-start-column="66" selection-end-line="52" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -664,9 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="893">
           <caret line="52" column="66" selection-start-line="52" selection-start-column="66" selection-end-line="52" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -688,9 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="988">
           <caret line="52" column="66" selection-start-line="52" selection-start-column="66" selection-end-line="52" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -783,9 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="208" column="38" selection-start-line="208" selection-start-column="38" selection-end-line="208" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -801,9 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="18" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -835,9 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="559">
           <caret line="110" column="35" lean-forward="true" selection-start-line="110" selection-start-column="35" selection-end-line="110" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -848,17 +789,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/solving/2018_12_09_5656_BreakBrick.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/input_sample/sample_input_5656.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="8" selection-end-line="63" />
+        <state relative-caret-position="76">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P5656_BreakBrick.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="62" column="42" selection-end-line="189" />
+        <state relative-caret-position="178">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_sample/sample_input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_sample/sample_input_1240.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-608">
+          <caret line="13" selection-start-line="1" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P1240_SimpleBinaryPasswordCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1805">
+          <caret line="137" column="37" selection-start-line="137" selection-start-column="37" selection-end-line="137" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_sample/sample_input_1242.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P1242_PasswordCodeScan_FAIL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="144" column="27" selection-end-line="266" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_sample/sample_output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
