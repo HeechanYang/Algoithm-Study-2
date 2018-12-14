@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/swexpertacademy/P1240_SimpleBinaryPasswordCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swexpertacademy/P1242_PasswordCodeScan_FAIL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/yhc94.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/yhc94.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5656_BreakBrick$Bomb.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5656_BreakBrick$Bomb.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5656_BreakBrick.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5656_BreakBrick.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P1242_PasswordCodeScan_FAIL.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="111">
-              <caret line="144" column="27" selection-end-line="266" />
+              <caret line="147" column="27" selection-end-line="269" />
             </state>
           </provider>
         </entry>
@@ -41,8 +35,8 @@
       <file leaf-file-name="sample_output.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/input_sample/sample_output.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="228">
+              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -341,7 +335,7 @@
       <workItem from="1544183301561" duration="7438000" />
       <workItem from="1544359765548" duration="19144000" />
       <workItem from="1544423799274" duration="2279000" />
-      <workItem from="1544693447427" duration="20054000" />
+      <workItem from="1544693447427" duration="21015000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 2383. LunchTime">
       <created>1543511605272</created>
@@ -406,11 +400,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544384216187</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="[ADD] 1240. SimpleBinaryPasswordCode&#10;[FAIL] 1242. PasswordCodeScan">
+      <created>1544717753245</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1544717753247</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105122000" />
+    <option name="totallyTimeSpent" value="106083000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -493,7 +494,8 @@
     <MESSAGE value="[ADD] 4014. ConstructAirstrip, But success only 40 cases out of 50." />
     <MESSAGE value="[UPDATE] 4014. ConstructAirstrip Success" />
     <MESSAGE value="[UPDATE] 4014. ConstructAirstrip Success, runtime : 162ms" />
-    <option name="LAST_COMMIT_MESSAGE" value="[UPDATE] 4014. ConstructAirstrip Success, runtime : 162ms" />
+    <MESSAGE value="[ADD] 1240. SimpleBinaryPasswordCode&#10;[FAIL] 1242. PasswordCodeScan" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] 1240. SimpleBinaryPasswordCode&#10;[FAIL] 1242. PasswordCodeScan" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -840,14 +842,14 @@
     <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P1242_PasswordCodeScan_FAIL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
-          <caret line="144" column="27" selection-end-line="266" />
+          <caret line="147" column="27" selection-end-line="269" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/input_sample/sample_output.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="228">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
     </entry>
