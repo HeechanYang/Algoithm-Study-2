@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/swexpertacademy/P1248_CommonAncestor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_sample/sample_output_1242.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swexpertacademy/P1248_CommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swexpertacademy/P1248_CommonAncestor.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,9 +18,10 @@
       <file leaf-file-name="P1248_CommonAncestor.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P1248_CommonAncestor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="94" column="32" lean-forward="true" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
+            <state relative-caret-position="-931">
+              <caret line="8" column="96" selection-start-line="8" selection-start-column="96" selection-end-line="8" selection-end-column="96" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#1930#1931#0" expanded="true" />
                 <element signature="e#1972#1973#0" expanded="true" />
               </folding>
@@ -32,8 +32,8 @@
       <file leaf-file-name="sample_input_1248.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/input_sample/sample_input_1248.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="11" lean-forward="true" selection-end-line="21" />
+            <state relative-caret-position="19">
+              <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -359,7 +359,7 @@
       <workItem from="1545387262492" duration="282000" />
       <workItem from="1546064050572" duration="2870000" />
       <workItem from="1546415180140" duration="2112000" />
-      <workItem from="1546424254629" duration="28906000" />
+      <workItem from="1546424254629" duration="29832000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 2383. LunchTime">
       <created>1543511605272</created>
@@ -445,11 +445,25 @@
       <option name="project" value="LOCAL" />
       <updated>1546455520883</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="[ADD] 1248. CommonAncestor">
+      <created>1546460167616</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1546460167616</updated>
+    </task>
+    <task id="LOCAL-00014" summary="[UPDATE] Enhance 1248. CommonAncestor. Close #3">
+      <created>1546460973681</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1546460973681</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154739000" />
+    <option name="totallyTimeSpent" value="155665000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -535,7 +549,9 @@
     <MESSAGE value="[ADD] 1240. SimpleBinaryPasswordCode&#10;[FAIL] 1242. PasswordCodeScan" />
     <MESSAGE value="[ADD] 1245. BalancePoint Code and Solving" />
     <MESSAGE value="[ADD] 1247. OptimalPath" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD] 1247. OptimalPath" />
+    <MESSAGE value="[ADD] 1248. CommonAncestor" />
+    <MESSAGE value="[UPDATE] Enhance 1248. CommonAncestor. Close #3" />
+    <option name="LAST_COMMIT_MESSAGE" value="[UPDATE] Enhance 1248. CommonAncestor. Close #3" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -930,16 +946,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/input_sample/sample_input_1248.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="11" lean-forward="true" selection-end-line="21" />
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P1248_CommonAncestor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="94" column="32" lean-forward="true" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
+        <state relative-caret-position="-931">
+          <caret line="8" column="96" selection-start-line="8" selection-start-column="96" selection-end-line="8" selection-end-column="96" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#1930#1931#0" expanded="true" />
             <element signature="e#1972#1973#0" expanded="true" />
           </folding>
