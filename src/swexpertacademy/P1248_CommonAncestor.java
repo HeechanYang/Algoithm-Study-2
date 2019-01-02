@@ -3,8 +3,6 @@ package swexpertacademy;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.HashMap;
-import java.util.Map;
 import java.util.StringTokenizer;
 
 /**
@@ -15,9 +13,10 @@ import java.util.StringTokenizer;
 
 public class P1248_CommonAncestor {
     public static int T, V, E, N1, N2;
-    public static Map<Integer, Node> nodeMap;
+    public static Node[] nodeArr;
     public static boolean[] isVisited;
     public static int commonAncestorIdx;
+    public static int size;
 
     public static void main(String[] args) throws IOException {
         try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
@@ -33,8 +32,8 @@ public class P1248_CommonAncestor {
                 N1 = Integer.parseInt(st.nextToken());
                 N2 = Integer.parseInt(st.nextToken());
                 size = 0;
-                nodeMap = new HashMap<>();
-                isVisited = new boolean[V];
+                nodeArr = new Node[V + 1];
+                isVisited = new boolean[V+1];
 
                 st = new StringTokenizer(br.readLine());
 
@@ -44,18 +43,18 @@ public class P1248_CommonAncestor {
                     Node parent;
                     Node child;
 
-                    if (!nodeMap.containsKey(parentInt)) {
+                    if (nodeArr[parentInt] == null) {
                         parent = new Node(parentInt);
-                        nodeMap.put(parentInt, parent);
+                        nodeArr[parentInt] = parent;
                     } else {
-                        parent = nodeMap.get(parentInt);
+                        parent = nodeArr[parentInt];
                     }
 
-                    if (!nodeMap.containsKey(childInt)) {
+                    if (nodeArr[childInt] == null) {
                         child = new Node(childInt);
-                        nodeMap.put(childInt, child);
+                        nodeArr[childInt] = child;
                     } else {
-                        child = nodeMap.get(childInt);
+                        child = nodeArr[childInt];
                     }
 
                     child.parent = parent;
@@ -66,9 +65,9 @@ public class P1248_CommonAncestor {
                     }
                 }
 
-                solution();
+                findAncestor();
 
-                setSize(nodeMap.get(commonAncestorIdx));
+                size(nodeArr[commonAncestorIdx]);
 
                 // Print result
                 System.out.printf("#%d %d %d\n", i, commonAncestorIdx, size);
@@ -76,9 +75,9 @@ public class P1248_CommonAncestor {
         }
     }
 
-    private static void solution() {
-        Node n1 = nodeMap.get(N1);
-        Node n2 = nodeMap.get(N2);
+    private static void findAncestor() {
+        Node n1 = nodeArr[N1];
+        Node n2 = nodeArr[N2];
 
         int temp;
 
@@ -105,15 +104,13 @@ public class P1248_CommonAncestor {
         }
     }
 
-    public static int size;
-
-    private static void setSize(Node node) {
+    private static void size(Node node) {
         size++;
         if (node.left != null) {
-            setSize(node.left);
+            size(node.left);
         }
         if (node.right != null) {
-            setSize(node.right);
+            size(node.right);
         }
     }
 
