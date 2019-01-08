@@ -16,8 +16,6 @@ public class P1251_OneRoute {
     public static int T, N;
     public static double E;
     public static Island[] islands;
-    public static Edge[] edges;
-    public static PriorityQueue<Edge> pq;
     public static boolean[] visited;
     public static double MAX_DISTANCE;
 
@@ -29,8 +27,7 @@ public class P1251_OneRoute {
             for (int t = 1; t <= T; t++) {
                 N = Integer.parseInt(br.readLine());
                 islands = new Island[N];
-                edges = new Edge[N * (N - 1) / 2];
-                pq = new PriorityQueue<>();
+
                 visited = new boolean[N];
                 MAX_DISTANCE = Math.sqrt(2000000000001L);
 
@@ -55,6 +52,8 @@ public class P1251_OneRoute {
 
 
     private static double solution() {
+        PriorityQueue<Edge> pq = new PriorityQueue<>();
+
         long distance = 0;
         int visitCnt = 1;
 
