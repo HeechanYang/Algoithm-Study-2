@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1251_OneRoute$Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1251_OneRoute$Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1251_OneRoute$Island.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1251_OneRoute$Island.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1251_OneRoute.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1251_OneRoute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swexpertacademy/P1257_KthString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1256_Suffix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1256_Suffix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solving/2019_01_08_1256_Suffix.md" beforeDir="false" afterPath="$PROJECT_DIR$/solving/2019_01_08_1256_Suffix.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swexpertacademy/P1256_Suffix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swexpertacademy/P1256_Suffix.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="P1257_KthString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P1257_KthString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-76">
+              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="P1256_Suffix.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P1256_Suffix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="13" lean-forward="true" selection-end-line="39" selection-end-column="1" />
+            <state relative-caret-position="-133">
+              <caret line="12" column="3" lean-forward="true" selection-end-line="37" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -28,8 +40,8 @@
       <file leaf-file-name="sample_input_1256.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/input_sample/sample_input_1256.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="14" lean-forward="true" selection-end-line="21" />
+            <state relative-caret-position="228">
+              <caret line="12" column="31" lean-forward="true" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -129,6 +141,7 @@
         <option value="$PROJECT_DIR$/src/swexpertacademy/P1249_OneRoute.java" />
         <option value="$PROJECT_DIR$/src/swexpertacademy/P1251_OneRoute.java" />
         <option value="$PROJECT_DIR$/src/swexpertacademy/P1251_Suffix.java" />
+        <option value="$PROJECT_DIR$/src/swexpertacademy/P1257_KthString.java" />
         <option value="$PROJECT_DIR$/src/swexpertacademy/P1256_Suffix.java" />
       </list>
     </option>
@@ -243,17 +256,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="P1248_CommonAncestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swexpertacademy.P1248_CommonAncestor" />
-      <module name="Algorithm Study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="swexpertacademy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="P1249_SupplyRoute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="swexpertacademy.P1249_SupplyRoute" />
       <module name="Algorithm Study" />
@@ -278,6 +280,17 @@
     </configuration>
     <configuration name="P1256_Suffix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="swexpertacademy.P1256_Suffix" />
+      <module name="Algorithm Study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swexpertacademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="P1257_KthString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swexpertacademy.P1257_KthString" />
       <module name="Algorithm Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -330,18 +343,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.P1247_OptimalPath" />
-      <item itemvalue="Application.P1248_CommonAncestor" />
       <item itemvalue="Application.P1249_SupplyRoute" />
       <item itemvalue="Application.P1251_OneRoute" />
       <item itemvalue="Application.P1256_Suffix" />
+      <item itemvalue="Application.P1257_KthString" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.P1256_Suffix" />
+        <item itemvalue="Application.P1257_KthString" />
         <item itemvalue="Application.P1247_OptimalPath" />
         <item itemvalue="Application.P1251_OneRoute" />
         <item itemvalue="Application.P1249_SupplyRoute" />
-        <item itemvalue="Application.P1248_CommonAncestor" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +394,7 @@
       <workItem from="1546424254629" duration="35723000" />
       <workItem from="1546548497993" duration="1867000" />
       <workItem from="1546583200871" duration="611000" />
-      <workItem from="1546887187396" duration="17844000" />
+      <workItem from="1546887187396" duration="21223000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 2383. LunchTime">
       <created>1543511605272</created>
@@ -506,7 +519,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181878000" />
+    <option name="totallyTimeSpent" value="185257000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -609,23 +622,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P4014_ConstructAirstrip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solving/2018_12_09_5656_BreakBrick.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/input_sample/sample_input_5656.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -881,13 +877,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="586" column="13" selection-start-line="586" selection-start-column="13" selection-end-line="586" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
@@ -976,13 +965,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/input_sample/sample_input_1256.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="14" lean-forward="true" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -997,10 +979,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="353" column="16" selection-start-line="353" selection-start-column="16" selection-end-line="353" selection-end-column="16" />
+          <folding>
+            <element signature="e#14892#14893#0" expanded="true" />
+            <element signature="e#14931#14932#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_sample/sample_input_1257.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_sample/sample_input_1256.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="31" lean-forward="true" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P1257_KthString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P1256_Suffix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="13" lean-forward="true" selection-end-line="39" selection-end-column="1" />
+        <state relative-caret-position="-133">
+          <caret line="12" column="3" lean-forward="true" selection-end-line="37" selection-end-column="1" />
         </state>
       </provider>
     </entry>
