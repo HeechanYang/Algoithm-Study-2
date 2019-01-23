@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="[ADD] Baekjoon 2493. Top. Close #13">
+    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="[ADD] Baekjoon 6549. BiggestSquare. Close #14">
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare_DevideAndConquer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/P2493_Top.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/P2493_Top.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,11 +24,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="613">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare_DevideAndConquer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="29" column="68" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,7 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/5653_input.txt" />
         <option value="$PROJECT_DIR$/src/StemCellCulture.java" />
         <option value="$PROJECT_DIR$/src/P5353_StemCellCulture.java" />
         <option value="$PROJECT_DIR$/src/P5658.java" />
@@ -142,6 +153,7 @@
         <option value="$PROJECT_DIR$/src/baekjoon/P2493_SequenceSum.java" />
         <option value="$PROJECT_DIR$/src/baekjoon/P2493_Top.java" />
         <option value="$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare.java" />
+        <option value="$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare_DevideAndConquer.java" />
       </list>
     </option>
   </component>
@@ -200,7 +212,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/yhc94/IdeaProjects/Algorithm Study/src/5653_input.txt" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548246117121" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548256848747" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -226,7 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P6549_BiggestSquare">
+  <component name="RunManager" selected="Application.P6549_BiggestSquare_DevideAndConquer">
     <configuration name="P2493_Top" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baekjoon.P2493_Top" />
       <module name="Algorithm Study" />
@@ -243,6 +255,20 @@
     </configuration>
     <configuration name="P6549_BiggestSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baekjoon.P6549_BiggestSquare" />
+      <module name="Algorithm Study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P6549_BiggestSquare_DevideAndConquer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.P6549_BiggestSquare_DevideAndConquer" />
       <module name="Algorithm Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -283,20 +309,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithmjobs.ProblemD" />
-      <module name="Algorithm Study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithmjobs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -320,18 +332,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ProblemA" />
-      <item itemvalue="Application.ProblemD" />
       <item itemvalue="Application.ProblemC" />
       <item itemvalue="Application.P2493_Top" />
       <item itemvalue="Application.P6549_BiggestSquare" />
+      <item itemvalue="Application.P6549_BiggestSquare_DevideAndConquer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P6549_BiggestSquare_DevideAndConquer" />
         <item itemvalue="Application.P6549_BiggestSquare" />
         <item itemvalue="Application.P2493_Top" />
         <item itemvalue="Application.ProblemC" />
         <item itemvalue="Application.ProblemA" />
-        <item itemvalue="Application.ProblemD" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +386,7 @@
       <workItem from="1546887187396" duration="21943000" />
       <workItem from="1547634923102" duration="9644000" />
       <workItem from="1547864677684" duration="14669000" />
-      <workItem from="1548239652843" duration="6481000" />
+      <workItem from="1548239652843" duration="15117000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 2383. LunchTime">
       <created>1543511605272</created>
@@ -516,11 +528,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548243255782</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="[ADD] Baekjoon 6549. BiggestSquare. Close #14">
+      <created>1548246160638</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1548246160638</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="216771000" />
+    <option name="totallyTimeSpent" value="225407000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -613,11 +632,11 @@
     <MESSAGE value="[ADD] 1257. KthString. Close #7" />
     <MESSAGE value="[ADD] 6782. RootGame. Close #10" />
     <MESSAGE value="[ADD] Baekjoon 2493. Top. Close #13" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD] Baekjoon 2493. Top. Close #13" />
+    <MESSAGE value="[ADD] Baekjoon 6549. BiggestSquare. Close #14" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] Baekjoon 6549. BiggestSquare. Close #14" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractSequentialList.java" />
     <entry file="file://$PROJECT_DIR$/src/BTree.java" />
     <entry file="file://$PROJECT_DIR$/src/CollectionTest.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractList.java" />
@@ -854,8 +873,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        <state relative-caret-position="613">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare_DevideAndConquer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="29" column="68" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
