@@ -2,16 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/solving/2019_01_16_6782_RootGame.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swexpertacademy/P6731_Odello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swexpertacademy/P6782_RootGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithmjobs/ProblemA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithmjobs/ProblemB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithmjobs/ProblemC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithmjobs/ProblemD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/P2493_Top.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/baekjoon/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/baekjoon/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/baekjoon/P1912_SequenceSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/baekjoon/P1912_SequenceSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1240_SimpleBinaryPasswordCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1240_SimpleBinaryPasswordCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1242_PasswordCodeScan_FAIL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1242_PasswordCodeScan_FAIL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1245_BalancedPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1245_BalancedPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1247_OptimalPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1247_OptimalPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1248_CommonAncestor$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1248_CommonAncestor$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1248_CommonAncestor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1248_CommonAncestor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1249_SupplyRoute$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1249_SupplyRoute$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1249_SupplyRoute.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1249_SupplyRoute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1251_OneRoute$Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1251_OneRoute$Edge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1251_OneRoute$Island.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1251_OneRoute$Island.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1251_OneRoute.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1251_OneRoute.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1256_Suffix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1256_Suffix.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1257_KthString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P1257_KthString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P2383_LunchTime$Coord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P2383_LunchTime$Coord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P2383_LunchTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P2383_LunchTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P4013_SpecialMagnet$Gear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P4013_SpecialMagnet$Gear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P4013_SpecialMagnet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P4013_SpecialMagnet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P4014_ConstructAirstrip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P4014_ConstructAirstrip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P4014_ConstructAirstrip_FAIL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P4014_ConstructAirstrip_FAIL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5650_PinballGame$Ball.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5650_PinballGame$Ball.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5650_PinballGame$Coord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5650_PinballGame$Coord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5650_PinballGame$Path.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5650_PinballGame$Path.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5650_PinballGame$PinballObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5650_PinballGame$PinballObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5650_PinballGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5650_PinballGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5653_StemCellCulture.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5653_StemCellCulture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5656_BreakBrick$Bomb.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5656_BreakBrick$Bomb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5656_BreakBrick.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5656_BreakBrick.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5658_TreasureBoxPassword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm Study/swexpertacademy/P5658_TreasureBoxPassword.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,20 +50,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="P6782_RootGame.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P6782_RootGame.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/baekjoon/P2493_Top.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+            <state relative-caret-position="43">
+              <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sample_input_6782.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/input_sample/sample_input_6782.txt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="2" selection-end-line="4" selection-end-column="2" />
+            <state relative-caret-position="95">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -89,13 +120,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../spring5" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -143,17 +167,15 @@
         <option value="$PROJECT_DIR$/src/swexpertacademy/P6731_Odello.java" />
         <option value="$PROJECT_DIR$/input_sample/sample_input_6782.txt" />
         <option value="$PROJECT_DIR$/src/swexpertacademy/P6782_RootGame.java" />
+        <option value="$PROJECT_DIR$/src/algorithmjobs/ProblemB.java" />
+        <option value="$PROJECT_DIR$/src/algorithmjobs/ProblemD.java" />
+        <option value="$PROJECT_DIR$/src/algorithmjobs/ProblemA.java" />
+        <option value="$PROJECT_DIR$/src/algorithmjobs/ProblemC.java" />
+        <option value="$PROJECT_DIR$/src/baekjoon/P2493_SequenceSum.java" />
+        <option value="$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare.java" />
+        <option value="$PROJECT_DIR$/src/baekjoon/P2493_Top.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
@@ -169,8 +191,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,17 +206,13 @@
             <path>
               <item name="Algorithm Study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm Study" type="462c0819:PsiDirectoryNode" />
-              <item name="input_sample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm Study" type="462c0819:PsiDirectoryNode" />
-              <item name="solving" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithm Study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm Study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithmjobs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithm Study" type="b2602c69:ProjectViewProjectNode" />
@@ -204,28 +220,26 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Algorithm Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm Study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="swexpertacademy" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/yhc94/IdeaProjects/Algorithm Study/src/5653_input.txt" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548243227265" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="baekjoon" />
+      <recent name="algorithmjobs" />
       <recent name="swexpertacademy" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -244,50 +258,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P6782_RootGame">
-    <configuration name="P1247_OptimalPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swexpertacademy.P1247_OptimalPath" />
+  <component name="RunManager" selected="Application.P2493_Top">
+    <configuration name="P2493_Top" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.P2493_Top" />
       <module name="Algorithm Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swexpertacademy.P6731_Odello" />
+          <option name="PATTERN" value="baekjoon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration name="P1256_Suffix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swexpertacademy.P1256_Suffix" />
-      <module name="Algorithm Study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="swexpertacademy.P6731_Odello" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="P1257_KthString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swexpertacademy.P1257_KthString" />
-      <module name="Algorithm Study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="swexpertacademy.P6731_Odello" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="P6731_Odello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swexpertacademy.P6731_Odello" />
-      <module name="Algorithm Study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="swexpertacademy.P6731_Odello" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="P6782_RootGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="swexpertacademy.P6782_RootGame" />
@@ -299,62 +283,87 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProblemA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithmjobs.ProblemA" />
+      <module name="Algorithm Study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithmjobs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProblemC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithmjobs.ProblemC" />
+      <module name="Algorithm Study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithmjobs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProblemD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithmjobs.ProblemD" />
+      <module name="Algorithm Study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithmjobs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
+    <configuration default="true" type="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Application.P1247_OptimalPath" />
-      <item itemvalue="Application.P1256_Suffix" />
-      <item itemvalue="Application.P1257_KthString" />
-      <item itemvalue="Application.P6731_Odello" />
       <item itemvalue="Application.P6782_RootGame" />
+      <item itemvalue="Application.ProblemA" />
+      <item itemvalue="Application.ProblemD" />
+      <item itemvalue="Application.ProblemC" />
+      <item itemvalue="Application.P2493_Top" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P2493_Top" />
+        <item itemvalue="Application.ProblemC" />
+        <item itemvalue="Application.ProblemA" />
+        <item itemvalue="Application.ProblemD" />
         <item itemvalue="Application.P6782_RootGame" />
-        <item itemvalue="Application.P6731_Odello" />
-        <item itemvalue="Application.P1256_Suffix" />
-        <item itemvalue="Application.P1257_KthString" />
-        <item itemvalue="Application.P1247_OptimalPath" />
       </list>
     </recent_temporary>
   </component>
@@ -395,7 +404,9 @@
       <workItem from="1546548497993" duration="1867000" />
       <workItem from="1546583200871" duration="611000" />
       <workItem from="1546887187396" duration="21943000" />
-      <workItem from="1547634923102" duration="9461000" />
+      <workItem from="1547634923102" duration="9644000" />
+      <workItem from="1547864677684" duration="14669000" />
+      <workItem from="1548239652843" duration="3505000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 2383. LunchTime">
       <created>1543511605272</created>
@@ -523,82 +534,88 @@
       <option name="project" value="LOCAL" />
       <updated>1546963007129</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="[ADD] 6782. RootGame. Close #10">
+      <created>1547647062883</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1547647062883</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195438000" />
+    <option name="totallyTimeSpent" value="213795000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.3293348" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.3566334" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32905984" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27181208" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.32952926" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27986577" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39942938" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="4" side_tool="true" weight="0.32995737" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.41221374" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1977612" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3293348" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32905984" />
+      <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32952926" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39942938" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="10" visible="true" weight="0.35602838" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32905984" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.3293348" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="9" side_tool="true" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1977612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3293348" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32905984" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32952926" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.41221374" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -619,90 +636,16 @@
     <MESSAGE value="[ADD] 1251. SupplyRoute. Close #5" />
     <MESSAGE value="[ADD] 1256. Suffix. Close #6" />
     <MESSAGE value="[ADD] 1257. KthString. Close #7" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD] 1257. KthString. Close #7" />
+    <MESSAGE value="[ADD] 6782. RootGame. Close #10" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] 6782. RootGame. Close #10" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
-      <option name="time" value="1" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/input_sample/sample_input_1242.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P1240_SimpleBinaryPasswordCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="137" column="37" selection-start-line="137" selection-start-column="37" selection-end-line="137" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3021">
-          <caret line="192" column="37" selection-start-line="192" selection-start-column="37" selection-end-line="192" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="83" column="30" selection-start-line="83" selection-start-column="30" selection-end-line="83" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2090">
-          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8122">
-          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="61" column="7" lean-forward="true" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractSequentialList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="82" column="6" lean-forward="true" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractSequentialList.java" />
     <entry file="file://$PROJECT_DIR$/src/BTree.java" />
     <entry file="file://$PROJECT_DIR$/src/CollectionTest.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
-          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="57" column="55" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractList.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractSet.java" />
     <entry file="file://$PROJECT_DIR$/input_sample/sample_input_1245.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -714,40 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="347">
           <caret line="314" column="29" selection-start-line="314" selection-start-column="29" selection-end-line="314" selection-end-column="29" />
-          <folding>
-            <element signature="e#3111#3112#0" expanded="true" />
-            <element signature="e#3135#3136#0" expanded="true" />
-            <element signature="e#3166#3167#0" expanded="true" />
-            <element signature="e#3192#3193#0" expanded="true" />
-            <element signature="e#3217#3218#0" expanded="true" />
-            <element signature="e#3241#3242#0" expanded="true" />
-            <element signature="e#3272#3273#0" expanded="true" />
-            <element signature="e#3298#3299#0" expanded="true" />
-            <element signature="e#4267#4268#0" expanded="true" />
-            <element signature="e#4296#4297#0" expanded="true" />
-            <element signature="e#4337#4338#0" expanded="true" />
-            <element signature="e#4373#4374#0" expanded="true" />
-            <element signature="e#4403#4404#0" expanded="true" />
-            <element signature="e#4432#4433#0" expanded="true" />
-            <element signature="e#4473#4474#0" expanded="true" />
-            <element signature="e#4509#4510#0" expanded="true" />
-            <element signature="e#4534#4535#0" expanded="true" />
-            <element signature="e#4558#4559#0" expanded="true" />
-            <element signature="e#4589#4590#0" expanded="true" />
-            <element signature="e#4615#4616#0" expanded="true" />
-            <element signature="e#4640#4641#0" expanded="true" />
-            <element signature="e#4664#4665#0" expanded="true" />
-            <element signature="e#4695#4696#0" expanded="true" />
-            <element signature="e#4721#4722#0" expanded="true" />
-            <element signature="e#4755#4756#0" expanded="true" />
-            <element signature="e#4788#4789#0" expanded="true" />
-            <element signature="e#4823#4824#0" expanded="true" />
-            <element signature="e#4856#4857#0" expanded="true" />
-            <element signature="e#5952#5953#0" expanded="true" />
-            <element signature="e#5980#5981#0" expanded="true" />
-            <element signature="e#6010#6011#0" expanded="true" />
-            <element signature="e#6038#6039#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -755,19 +664,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="72" column="62" selection-start-line="72" selection-start-column="62" selection-end-line="72" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="120" column="8" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/List.java" />
     <entry file="file://$PROJECT_DIR$/input_sample/output.txt" />
     <entry file="file://$PROJECT_DIR$/input_sample/sample_input_1247.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -781,11 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3573#3574#0" expanded="true" />
-            <element signature="e#3633#3634#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -800,35 +695,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="69" column="18" lean-forward="true" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1930#1931#0" expanded="true" />
-            <element signature="e#1972#1973#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/CharacterData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="6633" column="47" selection-start-line="6633" selection-start-column="47" selection-end-line="6633" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="111" column="13" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/CharacterData.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Character.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractQueue.java" />
     <entry file="file://$PROJECT_DIR$/input_sample/sample_input_1249.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -848,9 +720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="732">
           <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -865,61 +734,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
           <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3114#3115#0" expanded="true" />
-            <element signature="e#3180#3181#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="152" column="55" selection-start-line="152" selection-start-column="55" selection-end-line="152" selection-end-column="55" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
-          <folding>
-            <element signature="e#5027#5028#0" expanded="true" />
-            <element signature="e#5098#5099#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="655" column="16" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="234" column="16" selection-start-line="234" selection-start-column="16" selection-end-line="234" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="353" column="16" selection-start-line="353" selection-start-column="16" selection-end-line="353" selection-end-column="16" />
-          <folding>
-            <element signature="e#14892#14893#0" expanded="true" />
-            <element signature="e#14931#14932#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/PriorityQueue.java" />
     <entry file="file://$PROJECT_DIR$/input_sample/sample_input_1257.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
@@ -937,11 +758,7 @@
     <entry file="file://$PROJECT_DIR$/solving/2019_01_08_1256_Suffix.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <folding>
-              <element signature="imports" expanded="true" />
-            </folding>
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -949,11 +766,7 @@
     <entry file="file://$PROJECT_DIR$/solving/2019_01_09_1257_KthString.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <folding>
-              <element signature="imports" expanded="true" />
-            </folding>
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -979,38 +792,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="224" column="12" selection-start-line="224" selection-start-column="12" selection-end-line="224" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-332">
-          <caret line="611" column="18" lean-forward="true" selection-start-line="611" selection-start-column="18" selection-end-line="611" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="95" column="26" selection-start-line="95" selection-start-column="26" selection-end-line="95" selection-end-column="26" />
-          <folding>
-            <element signature="e#3740#3741#0" expanded="true" />
-            <element signature="e#3777#3778#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Set.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/HashMap.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/HashSet.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Object.java" />
     <entry file="file://$PROJECT_DIR$/input_sample/sample_input_6731.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="83">
@@ -1044,8 +829,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P6782_RootGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        <state relative-caret-position="228">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithmjobs/ProblemB.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/AbstractStringBuilder.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/StringBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/src/algorithmjobs/ProblemA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithmjobs/ProblemD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithmjobs/ProblemC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baekjoon/P2493_Top.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
         </state>
       </provider>
     </entry>
