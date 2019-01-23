@@ -32,9 +32,13 @@ public class P2493_Top {
         }
     }
 
+    // 뒤에서부터 접근
+    // 뒤에서부터 쏜 레이저들을 자료구조에 가지고 있다가 타워에 맞은 레이저들은 빼줌
     public static int[] solution() {
         int[] resultArr = new int[N];
+        // 쏘여진 레이저들을 가지고 있을 자료구조
         Deque<Integer> tempDeque = new LinkedList<>();
+
         Map<Integer, Integer> heightIdxMaps = new HashMap<>();
         int curMin = Integer.MAX_VALUE;
 
