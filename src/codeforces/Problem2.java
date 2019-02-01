@@ -40,11 +40,15 @@ public class Problem2 {
 
         for (int i = 0; i < N - 1; i++) {
             int thisDivisor = divisorArr[i];
+            int nextDivisor = divisorArr[i + 1];
 
-            if (thisDivisor == divisorArr[i + 1]) {
+            // 다음 수와 같다면 공약수라는 뜻!
+            if (thisDivisor == nextDivisor) {
                 B = thisDivisor;
                 continue;
             }
+
+            // A의 약수가 아니라면 B의 약수!
             if (A % thisDivisor != 0) {
                 B = thisDivisor;
             }

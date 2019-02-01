@@ -3,6 +3,17 @@ package codeforces;
 import java.io.*;
 import java.util.StringTokenizer;
 
+/**
+ * https://codeforces.com/contest/1108/problem/A
+ * A. Two distinct points
+ *
+ * 그냥 두 선분(A, B)에서 A에 속하는 점 중 하나(a), B에 속하는 점 중 하나(b)를 출력하는데
+ * 단, a와 b가 같으면 안된다.
+ *
+ * [해결방법]
+ * 걍 이중포문으로 서로 다른거 나올때까지 돌리면 됨.
+ */
+
 public class Problem1 {
     private static int T;
     private static int A, B;
