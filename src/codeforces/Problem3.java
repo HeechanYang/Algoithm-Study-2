@@ -2,6 +2,24 @@ package codeforces;
 
 import java.io.*;
 
+/**
+ * https://codeforces.com/contest/1108/problem/C
+ * C. Nice Garland
+ *
+ * 일렬로 늘어진 램프의 색깔을 나타내는 배열이 주어지는데,
+ * 각 램프의 색깔은 R, G, B중 하나.
+ * 각 색깔이 세 번마다 반복되도록 바뀌어야함.
+ * - ex) RGBRGBRG
+ * - ex) GB
+ * - ex) GRBGRBG
+ *
+ * [해결방법]
+ * - 램프 색깔 패턴의 모든 조합을 구하고 해당 패턴들과 램프의 개수를 이용해 정답셋을 구해놓는다.
+ * - 각 정답셋과 주어진 현재 램프 색깔을 비교하여 가장 변화가 적은 정답셋을 구하면 됨.
+ * - 랩프 색깔 패턴의 조합
+ *  - RGB, RBG, BRG, BGR, GRB, GBR 총 6가지
+ */
+
 public class Problem3 {
     private static final char R = 'R';
     private static final char G = 'G';
@@ -75,7 +93,7 @@ public class Problem3 {
         }
     }
 
-    private static int solution() {
+    private static void solution() {
         for (int i = 0; i < N; i++) {
             char thisLamp = lampArr[i];
 
@@ -93,6 +111,5 @@ public class Problem3 {
                 minChangeCnt = cntArr[i];
             }
         }
-        return minPosition;
     }
 }
