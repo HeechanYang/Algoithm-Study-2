@@ -20,7 +20,7 @@ import java.io.*;
  *  - RGB, RBG, BRG, BGR, GRB, GBR 총 6가지
  */
 
-public class Problem3 {
+public class ProblemC {
     private static final char R = 'R';
     private static final char G = 'G';
     private static final char B = 'B';

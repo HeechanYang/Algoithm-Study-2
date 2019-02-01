@@ -23,7 +23,7 @@ import java.util.StringTokenizer;
  * O(NlogN)
  */
 
-public class Problem2 {
+public class ProblemB {
     private static int N;
     private static int A, B;
     private static int[] divisorArr;

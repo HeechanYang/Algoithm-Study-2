@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class Problem5 {
+public class ProblemE1 {
     private static int N, M;
     private static int[] intArr;
     private static int[][] segmentArr;

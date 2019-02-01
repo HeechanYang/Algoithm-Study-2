@@ -14,7 +14,7 @@ import java.util.StringTokenizer;
  * 걍 이중포문으로 서로 다른거 나올때까지 돌리면 됨.
  */
 
-public class Problem1 {
+public class ProblemA {
     private static int T;
     private static int A, B;
     private static int l1, r1, l2, r2;

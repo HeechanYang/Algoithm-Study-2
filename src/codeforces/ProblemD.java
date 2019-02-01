@@ -26,7 +26,7 @@ import java.util.List;
  * - 다시 루프를 돌면서 해당 인덱스의 램프들의 색깔을 변경하는데, 변경할 때 주변의 램프들의 색깔과 다른 색을 칠한다
  */
 
-public class Problem4 {
+public class ProblemD {
     private static char[] COLORS = new char[]{'R', 'G', 'B'};
 
     private static int N;
