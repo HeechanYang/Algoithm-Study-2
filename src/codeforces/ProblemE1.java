@@ -5,6 +5,12 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
+/**
+ * https://codeforces.com/contest/1108/problem/E1
+ * E1. Array and Segments (Easy version)
+ *
+ */
+
 public class ProblemE1 {
     private static int N, M;
     private static int[] intArr;
