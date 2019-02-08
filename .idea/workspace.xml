@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="[ADD] [Baekjoon] 1005. ACM Craft. Closes #26.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="[ADD] [Baekjoon] 1005. ACM Craft. Closes #26." />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/baekjoon/p1005_ACMCraft.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="88" column="13" lean-forward="true" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+            <state relative-caret-position="247">
+              <caret line="61" selection-start-line="61" selection-end-line="62" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2121#2122#0" expanded="true" />
@@ -30,18 +28,6 @@
                 <element signature="e#2395#2396#0" expanded="true" />
                 <element signature="e#2455#2456#0" expanded="true" />
                 <element signature="e#2507#2508#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/baekjoon/P1058_Friend.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="80" column="5" lean-forward="true" selection-end-line="108" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -210,7 +196,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/yhc94/IdeaProjects/Algorithm Study/src/5653_input.txt" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549633211030" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549633791630" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -398,7 +384,7 @@
       <workItem from="1548844558881" duration="9072000" />
       <workItem from="1548904070862" duration="664000" />
       <workItem from="1549021838755" duration="2348000" />
-      <workItem from="1549373271271" duration="9639000" />
+      <workItem from="1549373271271" duration="10133000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 2383. LunchTime">
       <created>1543511605272</created>
@@ -621,7 +607,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="250886000" />
+    <option name="totallyTimeSpent" value="251380000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -644,7 +630,7 @@
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39858156" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="10" visible="true" weight="0.35602838" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.35602838" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1056,10 +1042,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/baekjoon/P1058_Friend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="78" column="15" lean-forward="true" selection-start-line="78" selection-start-column="15" selection-end-line="78" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/baekjoon/p1005_ACMCraft.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="88" column="13" lean-forward="true" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+        <state relative-caret-position="247">
+          <caret line="61" selection-start-line="61" selection-end-line="62" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2121#2122#0" expanded="true" />
@@ -1072,16 +1068,6 @@
             <element signature="e#2395#2396#0" expanded="true" />
             <element signature="e#2455#2456#0" expanded="true" />
             <element signature="e#2507#2508#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/baekjoon/P1058_Friend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="80" column="5" lean-forward="true" selection-end-line="108" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
