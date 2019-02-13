@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="[ADD] [Baekjoon] 1004. Young Prince. Closes #28.">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/p1006_Choragi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/p1007_VetctorMatching.java" afterDir="false" />
+    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="[ADD] Solving for [Baekjoon] 1007. VectorMatching. Closes .">
+      <change afterPath="$PROJECT_DIR$/solving/2019_02_10_B1007_VectorMatching.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/P1004_YoungPrince.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/P1004_YoungPrince.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/p1007_VetctorMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/p1007_VetctorMatching.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,11 +29,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/baekjoon/P1004_YoungPrince.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <state relative-caret-position="408">
+              <caret line="137" column="29" selection-start-line="137" selection-start-column="29" selection-end-line="137" selection-end-column="29" />
+              <folding>
+                <element signature="e#2893#2894#0" expanded="true" />
+                <element signature="e#2925#2926#0" expanded="true" />
+                <element signature="e#2954#2955#0" expanded="true" />
+                <element signature="e#2986#2987#0" expanded="true" />
+                <element signature="e#3255#3256#0" expanded="true" />
+                <element signature="e#3291#3292#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -39,23 +49,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/baekjoon/p1006_Choragi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1349">
-              <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+            <state relative-caret-position="104">
+              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/baekjoon/p1007_VetctorMatching.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare_SegmentTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="84" column="69" selection-start-line="84" selection-start-column="69" selection-end-line="84" selection-end-column="69" />
-              <folding>
-                <element signature="e#1517#1518#0" expanded="true" />
-                <element signature="e#1549#1550#0" expanded="true" />
-                <element signature="e#1579#1580#0" expanded="true" />
-                <element signature="e#1611#1612#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="294">
+              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="23" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="578">
+                <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -115,7 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/input_sample/sample_output.txt" />
         <option value="$PROJECT_DIR$/input_sample/sample_input_1242.txt" />
         <option value="$PROJECT_DIR$/src/swexpertacademy/P1242_PasswordCodeScan.java" />
         <option value="$PROJECT_DIR$/input_sample/backjoon/sample_input_1912.txt" />
@@ -157,21 +172,23 @@
         <option value="$PROJECT_DIR$/src/codeforces/Problem4.java" />
         <option value="$PROJECT_DIR$/src/codeforces/ProblemE.java" />
         <option value="$PROJECT_DIR$/solving/2019_02_01_Codeforce_535.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/codeforces/ProblemE1.java" />
         <option value="$PROJECT_DIR$/src/codeforces/ProblemE2.java" />
         <option value="$PROJECT_DIR$/src/codeforces/ProblemF.java" />
         <option value="$PROJECT_DIR$/src/baekjoon/P1058_Friend.java" />
         <option value="$PROJECT_DIR$/src/baekjoon/p1005_ACMCraft.java" />
-        <option value="$PROJECT_DIR$/src/baekjoon/P1004_YoungPrince.java" />
         <option value="$PROJECT_DIR$/src/baekjoon/p1006_Choragi.java" />
         <option value="$PROJECT_DIR$/src/baekjoon/p1007_VetctorMatching.java" />
+        <option value="$PROJECT_DIR$/solving/2019_02_10_B1007_VectorMatching.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/baekjoon/P1004_YoungPrince.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1919" />
-    <option name="height" value="1029" />
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -181,7 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,6 +209,11 @@
               <item name="Algorithm Study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm Study" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm Study" type="462c0819:PsiDirectoryNode" />
+              <item name="solving" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithm Study" type="b2602c69:ProjectViewProjectNode" />
@@ -209,6 +230,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -216,7 +238,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/yhc94/IdeaProjects/Algorithm Study/src/5653_input.txt" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549890443396" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550041911697" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -351,6 +373,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Demo2" />
       <item itemvalue="Application.P1058_Friend" />
       <item itemvalue="Application.p1005_ACMCraft" />
       <item itemvalue="Application.P1004_YoungPrince" />
@@ -412,7 +435,8 @@
       <workItem from="1548904070862" duration="664000" />
       <workItem from="1549021838755" duration="2348000" />
       <workItem from="1549373271271" duration="24760000" />
-      <workItem from="1549887105027" duration="3277000" />
+      <workItem from="1549887105027" duration="3898000" />
+      <workItem from="1549947545669" duration="3018000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 2383. LunchTime">
       <created>1543511605272</created>
@@ -638,17 +662,24 @@
       <option name="project" value="LOCAL" />
       <updated>1549684888732</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="[ADD] [Baekjoon] 1007. VectorMatching. Closes #31.">
+      <created>1549890648922</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1549890648922</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="269284000" />
+    <option name="totallyTimeSpent" value="272923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30402684" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3080537" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -665,7 +696,7 @@
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39858156" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.35602838" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.35602838" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -717,7 +748,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="[UPDATE] 4014. ConstructAirstrip Success" />
     <MESSAGE value="[UPDATE] 4014. ConstructAirstrip Success, runtime : 162ms" />
     <MESSAGE value="[ADD] 1240. SimpleBinaryPasswordCode&#10;[FAIL] 1242. PasswordCodeScan" />
     <MESSAGE value="[ADD] 1245. BalancePoint Code and Solving" />
@@ -742,17 +772,11 @@
     <MESSAGE value="[ADD] [Baekjoon] 1058. Friend" />
     <MESSAGE value="[ADD] [Baekjoon] 1005. ACM Craft. Closes #26." />
     <MESSAGE value="[ADD] [Baekjoon] 1004. Young Prince. Closes #28." />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD] [Baekjoon] 1004. Young Prince. Closes #28." />
+    <MESSAGE value="[ADD] [Baekjoon] 1007. VectorMatching. Closes #31." />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] [Baekjoon] 1007. VectorMatching. Closes #31." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/input_sample/sample_input_1251.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="1" lean-forward="true" selection-end-line="80" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P1251_OneRoute.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
@@ -909,13 +933,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare_SegmentTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="23" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare_DevideAndConquer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
@@ -988,16 +1005,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="597">
-            <caret line="54" column="63" selection-start-line="54" selection-start-column="63" selection-end-line="54" selection-end-column="63" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1075,29 +1082,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/baekjoon/P1004_YoungPrince.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/baekjoon/p1006_Choragi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1349">
-          <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+    <entry file="file://$PROJECT_DIR$/solving/2019_02_10_B1007_VectorMatching.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="171">
+            <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <folding>
+              <element signature="e#173#174#0" expanded="true" />
+              <element signature="e#197#198#0" expanded="true" />
+              <element signature="e#222#223#0" expanded="true" />
+              <element signature="e#246#247#0" expanded="true" />
+              <element signature="imports" expanded="true" />
+              <element signature="e#2332#2333#0" expanded="true" />
+              <element signature="e#2364#2365#0" expanded="true" />
+              <element signature="e#2393#2394#0" expanded="true" />
+              <element signature="e#2425#2426#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/baekjoon/p1007_VetctorMatching.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="84" column="69" selection-start-line="84" selection-start-column="69" selection-end-line="84" selection-end-column="69" />
+        <state relative-caret-position="161">
+          <caret line="94" column="116" selection-start-line="94" selection-start-column="116" selection-end-line="94" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baekjoon/p1006_Choragi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare_SegmentTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="578">
+            <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baekjoon/P1004_YoungPrince.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="137" column="29" selection-start-line="137" selection-start-column="29" selection-end-line="137" selection-end-column="29" />
           <folding>
-            <element signature="e#1517#1518#0" expanded="true" />
-            <element signature="e#1549#1550#0" expanded="true" />
-            <element signature="e#1579#1580#0" expanded="true" />
-            <element signature="e#1611#1612#0" expanded="true" />
+            <element signature="e#2893#2894#0" expanded="true" />
+            <element signature="e#2925#2926#0" expanded="true" />
+            <element signature="e#2954#2955#0" expanded="true" />
+            <element signature="e#2986#2987#0" expanded="true" />
+            <element signature="e#3255#3256#0" expanded="true" />
+            <element signature="e#3291#3292#0" expanded="true" />
           </folding>
         </state>
       </provider>
