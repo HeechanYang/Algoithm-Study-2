@@ -40,7 +40,7 @@ import java.util.StringTokenizer;
 public class P1004_YoungPrince {
 
     private static int T, N;
-    private static int sx, sy, ex, ey;
+    private static Coord startCoord, endCoord;
     private static Planet[] planets;
 
     public static void main(String[] args) throws IOException {
@@ -53,10 +53,14 @@ public class P1004_YoungPrince {
             for (int i = 0; i < T; i++) {
                 StringTokenizer st = new StringTokenizer(br.readLine());
 
+                int sx, sy, ex, ey;
                 sx = Integer.parseInt(st.nextToken());
                 sy = Integer.parseInt(st.nextToken());
                 ex = Integer.parseInt(st.nextToken());
                 ey = Integer.parseInt(st.nextToken());
+
+                startCoord = new Coord(sx, sy);
+                endCoord = new Coord(ex, ey);
 
                 N = Integer.parseInt(br.readLine());
                 planets = new Planet[N];
@@ -81,8 +85,8 @@ public class P1004_YoungPrince {
     private static int solution() {
         int A = 0, B = 0;
         for (Planet p : planets) {
-            final boolean containA = isContained(sx, sy, p);
-            final boolean containB = isContained(ex, ey, p);
+            final boolean containA = isContained(startCoord.getX(), startCoord.getY(), p);
+            final boolean containB = isContained(endCoord.getX(), endCoord.getY(), p);
 
             if (containA && !containB) {
                 A++;
@@ -95,7 +99,7 @@ public class P1004_YoungPrince {
     }
 
     private static boolean isContained(int x, int y, Planet p) {
-        double distance = getDistance(x, y, p.getX(), p.getY());
+        double distance = getDistance(x, y, p.getCoord().getX(), p.getCoord().getY());
 
         return distance < p.radius;
     }
@@ -104,15 +108,13 @@ public class P1004_YoungPrince {
         return Math.sqrt((x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2));
     }
 
-    static class Planet {
+    static class Coord {
         private final int x;
         private final int y;
-        private final int radius;
 
-        public Planet(int x, int y, int radius) {
+        public Coord(int x, int y) {
             this.x = x;
             this.y = y;
-            this.radius = radius;
         }
 
         public int getX() {
@@ -121,6 +123,20 @@ public class P1004_YoungPrince {
 
         public int getY() {
             return y;
+        }
+    }
+
+    static class Planet {
+        private final Coord coord;
+        private final int radius;
+
+        public Planet(int x, int y, int radius) {
+            coord = new Coord(x, y);
+            this.radius = radius;
+        }
+
+        public Coord getCoord() {
+            return coord;
         }
 
         public int getRadius() {
