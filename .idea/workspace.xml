@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="[ADD] Solving for [Baekjoon] 1007. VectorMatching. Closes .">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/P1010_ConstructBridge.java" afterDir="false" />
+    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="[ADD] [Baekjoon] 1010. ConstructBridge. Closes #33.">
+      <change afterPath="$PROJECT_DIR$/solving/2019_02_23_B1010_ConstructBridge.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/P1010_ConstructBridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/P1010_ConstructBridge.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,41 +36,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/baekjoon/P1010_ConstructBridge.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="3" selection-end-column="33" />
+            <state relative-caret-position="57">
+              <caret line="51" selection-start-line="51" selection-end-line="66" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/baekjoon/p1007_VetctorMatching.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="65" column="56" selection-start-line="65" selection-start-column="56" selection-end-line="65" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/baekjoon/p1006_Choragi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1121">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare_SegmentTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="23" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -80,6 +54,21 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="1254">
                 <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/solving/2019_02_23_B1010_ConstructBridge.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-15">
+                <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+                <folding>
+                  <element signature="imports" expanded="true" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -141,7 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/swexpertacademy/P1242_PasswordCodeScan.java" />
         <option value="$PROJECT_DIR$/input_sample/backjoon/sample_input_1912.txt" />
         <option value="$PROJECT_DIR$/src/baekjoon/P1912_SequenceSum.java" />
         <option value="$PROJECT_DIR$/src/CollectionTest.java" />
@@ -192,6 +180,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/baekjoon/P1004_YoungPrince.java" />
         <option value="$PROJECT_DIR$/src/baekjoon/P1010_ConstructBridge.java" />
+        <option value="$PROJECT_DIR$/solving/2019_02_23_B1010_ConstructBridge.md" />
       </list>
     </option>
   </component>
@@ -248,7 +237,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/yhc94/IdeaProjects/Algorithm Study/src/5653_input.txt" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550911450501" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550912187166" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -432,7 +421,7 @@
       <workItem from="1549373271271" duration="24760000" />
       <workItem from="1549887105027" duration="3898000" />
       <workItem from="1549947545669" duration="4544000" />
-      <workItem from="1550908167847" duration="3282000" />
+      <workItem from="1550908167847" duration="4035000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 2383. LunchTime">
       <created>1543511605272</created>
@@ -679,11 +668,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550042034693</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="[ADD] [Baekjoon] 1010. ConstructBridge. Closes #33.">
+      <created>1550911622910</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1550911622910</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="277731000" />
+    <option name="totallyTimeSpent" value="278484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -758,7 +754,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="[ADD] 1245. BalancePoint Code and Solving" />
     <MESSAGE value="[ADD] 1247. OptimalPath" />
     <MESSAGE value="[ADD] 1248. CommonAncestor" />
     <MESSAGE value="[UPDATE] Enhance 1248. CommonAncestor. Close #3" />
@@ -783,11 +778,11 @@
     <MESSAGE value="[ADD] [Baekjoon] 1007. VectorMatching. Closes #31." />
     <MESSAGE value="[UPDATE] Make code more OOPly" />
     <MESSAGE value="[ADD] Solving for [Baekjoon] 1007. VectorMatching. Closes ." />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD] Solving for [Baekjoon] 1007. VectorMatching. Closes ." />
+    <MESSAGE value="[ADD] [Baekjoon] 1010. ConstructBridge. Closes #33." />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] [Baekjoon] 1010. ConstructBridge. Closes #33." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/PriorityQueue.java" />
@@ -1106,13 +1101,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/baekjoon/p1006_Choragi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1121">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare_SegmentTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -1139,18 +1127,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/baekjoon/p1007_VetctorMatching.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
+        <state relative-caret-position="427">
           <caret line="65" column="56" selection-start-line="65" selection-start-column="56" selection-end-line="65" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baekjoon/p1006_Choragi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" selection-start-line="5" selection-end-line="11" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/baekjoon/P1010_ConstructBridge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="3" selection-end-column="33" />
+        <state relative-caret-position="57">
+          <caret line="51" selection-start-line="51" selection-end-line="66" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solving/2019_02_23_B1010_ConstructBridge.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-15">
+            <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+            <folding>
+              <element signature="imports" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
