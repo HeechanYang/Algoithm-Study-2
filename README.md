@@ -66,3 +66,7 @@
 
 - [[백준온라인] 1007. 벡터 매칭](solving/2019_02_10_B1007_VectorMatching.md)
  
+## 2019.02.23.(토)
+
+- [[백준온라인] 1010. 다리 짓기](solving/2019_02_23_B1010_ConstructBridge.md)
+ 
