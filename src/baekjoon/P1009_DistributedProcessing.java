@@ -39,13 +39,8 @@ public class P1009_DistributedProcessing {
                 // [0,3]이 아닌 [1,4]를 구해야한다
                 int b = (Integer.parseInt(st.nextToken()) + 3) % 4 + 1;
 
-                int result = 1;
-                for (int j = 0; j < b; j++) {
-                    result *= a;
-                }
-
                 // [0,9]가 아닌 [1,10]을 구해야한다
-                result = (result + 9) % 10 + 1;
+                int result = ((int)Math.pow(a,b) + 9) % 10 + 1;
 
                 sb.append(result).append('\n');
             }

@@ -69,4 +69,8 @@
 ## 2019.02.23.(토)
 
 - [[백준온라인] 1010. 다리 짓기](solving/2019_02_23_B1010_ConstructBridge.md)
+
+## 2019.02.24.(일)
+
+- [[백준온라인] 1009. 분산처리](solving/2019_02_24_B1010_DistributedProcessing.md)
  
