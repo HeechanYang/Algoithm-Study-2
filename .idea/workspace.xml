@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="[ADD] [Baekjoon] 1012. 유기농 배추 (시간초과)">
+    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="[ADD] [Baekjoon] 1012. 유기농 배추 bfs-&gt;dfs">
+      <change afterPath="$PROJECT_DIR$/solving/2019_02_26_B1012_OrganicCabbage.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/P1012_OrganicCabbage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/P1012_OrganicCabbage.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +26,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/baekjoon/P1012_OrganicCabbage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            <state relative-caret-position="541">
+              <caret line="77" column="1" lean-forward="true" selection-end-line="77" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/solving/2019_02_26_B1012_OrganicCabbage.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-638">
+                <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
+                <folding>
+                  <element signature="imports" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -90,7 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/swexpertacademy/P5650_PinballGame.java" />
         <option value="$PROJECT_DIR$/input_sample/sample_input_1247.txt" />
         <option value="$PROJECT_DIR$/src/swexpertacademy/P1247_OptimalPath.java" />
         <option value="$PROJECT_DIR$/src/swexpertacademy/P1248_CommonAncestor.java" />
@@ -141,6 +155,7 @@
         <option value="$PROJECT_DIR$/solving/2019_02_25_B1011_FlyMeToTheAlphaCentauri.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/baekjoon/P1012_OrganicCabbage.java" />
+        <option value="$PROJECT_DIR$/solving/2019_02_26_B1012_OrganicCabbage.md" />
       </list>
     </option>
   </component>
@@ -174,6 +189,11 @@
             <path>
               <item name="Algorithm Study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm Study" type="462c0819:PsiDirectoryNode" />
+              <item name="solving" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm Study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -192,7 +212,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/yhc94/IdeaProjects/Algorithm Study/src/5653_input.txt" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551144409032" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551144601528" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -379,7 +399,7 @@
       <workItem from="1550908167847" duration="4218000" />
       <workItem from="1551010963283" duration="3569000" />
       <workItem from="1551070219282" duration="2369000" />
-      <workItem from="1551137255773" duration="4265000" />
+      <workItem from="1551137255773" duration="4515000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 2383. LunchTime">
       <created>1543511605272</created>
@@ -682,17 +702,24 @@
       <option name="project" value="LOCAL" />
       <updated>1551139682808</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="[ADD] [Baekjoon] 1012. 유기농 배추 bfs-&gt;dfs">
+      <created>1551144437979</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1551144437979</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="288870000" />
+    <option name="totallyTimeSpent" value="289120000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32684565" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32684565" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -709,7 +736,7 @@
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39858156" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.35602838" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.35602838" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -761,7 +788,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="[ADD] 1257. KthString. Close #7" />
     <MESSAGE value="[ADD] 6782. RootGame. Close #10" />
     <MESSAGE value="[ADD] Baekjoon 2493. Top. Close #13" />
     <MESSAGE value="[ADD] Baekjoon 6549. BiggestSquare. Close #14" />
@@ -786,18 +812,11 @@
     <MESSAGE value="[ADD] [Baekjoon] 1011. Fly me to the Alpha Centauri. Closes #37." />
     <MESSAGE value="[ADD] Solving for [Baekjoon] 1011. Fly me to the Alpha Centauri. Closes #38." />
     <MESSAGE value="[ADD] [Baekjoon] 1012. 유기농 배추 (시간초과)" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD] [Baekjoon] 1012. 유기농 배추 (시간초과)" />
+    <MESSAGE value="[ADD] [Baekjoon] 1012. 유기농 배추 bfs-&gt;dfs" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] [Baekjoon] 1012. 유기농 배추 bfs-&gt;dfs" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solving/2019_01_08_1256_Suffix.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solving/2019_01_09_1257_KthString.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1194,8 +1213,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/baekjoon/P1012_OrganicCabbage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        <state relative-caret-position="541">
+          <caret line="77" column="1" lean-forward="true" selection-end-line="77" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solving/2019_02_26_B1012_OrganicCabbage.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-638">
+            <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
+            <folding>
+              <element signature="imports" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
