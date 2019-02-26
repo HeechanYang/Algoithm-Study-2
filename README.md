@@ -74,6 +74,6 @@
 
 - [[백준온라인] 1009. 분산처리](solving/2019_02_24_B1010_DistributedProcessing.md)
 
-## 2019.02.24.(일)
+## 2019.02.25.(월)
 
 - [[백준온라인] 1011. Fly me to the Alpha Centauri](solving/2019_02_25_B1011_FlyMeToTheAlphaCentauri.md)
