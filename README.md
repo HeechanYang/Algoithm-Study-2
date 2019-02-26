@@ -77,3 +77,9 @@
 ## 2019.02.25.(월)
 
 - [[백준온라인] 1011. Fly me to the Alpha Centauri](solving/2019_02_25_B1011_FlyMeToTheAlphaCentauri.md)
+
+## 2019.02.26.(화)
+
+- [[백준온라인] 1012. 유기농 배추](solving/2019_02_26_B1012_OrganicCabbage.md)
+- [[백준온라인] 1026. 보물](solving/2019_02_26_B1026_Treasure.md)
+
