@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="[ADD] [Baekjoon] 1867. 돌멩이 제거 (실패)">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/P2447_PrintStar10.java" afterDir="false" />
+    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="[ADD] [Baekjoon] 2447. 별찍기 - 10. Close #45">
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/P4355_Seoroso.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,17 +29,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/baekjoon/P1867_RemoveStone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
+            <state relative-caret-position="1083">
               <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/baekjoon/P2447_PrintStar10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="912">
-              <caret line="48" column="43" lean-forward="true" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+            <state relative-caret-position="618">
+              <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/baekjoon/P4355_Seoroso.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
@@ -141,7 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/swexpertacademy/P1251_Suffix.java" />
         <option value="$PROJECT_DIR$/src/swexpertacademy/P1256_Suffix.java" />
         <option value="$PROJECT_DIR$/src/swexpertacademy/P1257_KthString.java" />
         <option value="$PROJECT_DIR$/input_sample/sample_input_6731.txt" />
@@ -192,14 +200,14 @@
         <option value="$PROJECT_DIR$/src/baekjoon/P1867_RemoveStone.java" />
         <option value="$PROJECT_DIR$/src/baekjoon/P2447_PrintStar.java" />
         <option value="$PROJECT_DIR$/src/baekjoon/P2447_PrintStar10.java" />
+        <option value="$PROJECT_DIR$/src/baekjoon/P4355_Seoroso.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1937" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -209,7 +217,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -238,13 +245,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/yhc94/IdeaProjects/Algorithm Study/src/5653_input.txt" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551396328298" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551622014499" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Gings-Server" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -273,21 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P2447_PrintStar10">
-    <configuration name="P1011_FlyMeToTheAlphaCentauri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.P1011_FlyMeToTheAlphaCentauri" />
-      <module name="Algorithm Study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P4355_Seoroso">
     <configuration name="P1012_OrganicCabbage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baekjoon.P1012_OrganicCabbage" />
       <module name="Algorithm Study" />
@@ -344,6 +338,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P4355_Seoroso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.P4355_Seoroso" />
+      <module name="Algorithm Study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -366,19 +374,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.P1011_FlyMeToTheAlphaCentauri" />
       <item itemvalue="Application.P1012_OrganicCabbage" />
       <item itemvalue="Application.P1026_Treasure" />
       <item itemvalue="Application.P1867_RemoveStone" />
       <item itemvalue="Application.P2447_PrintStar10" />
+      <item itemvalue="Application.P4355_Seoroso" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P4355_Seoroso" />
         <item itemvalue="Application.P2447_PrintStar10" />
         <item itemvalue="Application.P1867_RemoveStone" />
         <item itemvalue="Application.P1026_Treasure" />
         <item itemvalue="Application.P1012_OrganicCabbage" />
-        <item itemvalue="Application.P1011_FlyMeToTheAlphaCentauri" />
       </list>
     </recent_temporary>
   </component>
@@ -435,14 +443,8 @@
       <workItem from="1551137255773" duration="6561000" />
       <workItem from="1551257696523" duration="4210000" />
       <workItem from="1551275725225" duration="103000" />
-      <workItem from="1551393501714" duration="2821000" />
-    </task>
-    <task id="LOCAL-00001" summary="[ADD] 2383. LunchTime">
-      <created>1543511605272</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1543511605272</updated>
+      <workItem from="1551393501714" duration="3512000" />
+      <workItem from="1551582537140" duration="4660000" />
     </task>
     <task id="LOCAL-00002" summary="[ADD] 2383. LunchTime">
       <created>1543511683685</created>
@@ -780,17 +782,24 @@
       <option name="project" value="LOCAL" />
       <updated>1551275757175</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="[ADD] [Baekjoon] 2447. 별찍기 - 10. Close #45">
+      <created>1551396399015</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1551396399017</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="298300000" />
+    <option name="totallyTimeSpent" value="303651000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-6" y="0" width="1549" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26979867" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2740094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -807,7 +816,7 @@
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39858156" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.35460994" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.35868007" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -859,7 +868,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="[ADD] Codeforces Round #535 (Div. 3). Closes #15." />
     <MESSAGE value="[ADD] Solving for Codeforces Round #535 (Div. 3). Problem A. Closes #16." />
     <MESSAGE value="[ADD] Solving for Codeforces Round #535 (Div. 3). Problem B. Closes #17." />
     <MESSAGE value="[ADD] Solving for Codeforces Round #535 (Div. 3). Problem C. Closes #18." />
@@ -884,11 +892,11 @@
     <MESSAGE value="[ADD] [Baekjoon] 1026. 보물. Close #41" />
     <MESSAGE value="[ADD] Solving for [Baekjoon] 1026. 보물. Close #42" />
     <MESSAGE value="[ADD] [Baekjoon] 1867. 돌멩이 제거 (실패)" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD] [Baekjoon] 1867. 돌멩이 제거 (실패)" />
+    <MESSAGE value="[ADD] [Baekjoon] 2447. 별찍기 - 10. Close #45" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] [Baekjoon] 2447. 별찍기 - 10. Close #45" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Set.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/HashMap.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/HashSet.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Object.java" />
@@ -1253,6 +1261,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/baekjoon/P1867_RemoveStone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/baekjoon/P1012_OrganicCabbage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1444">
@@ -1287,17 +1302,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/baekjoon/P1867_RemoveStone.java">
+    <entry file="file://$PROJECT_DIR$/src/baekjoon/P2447_PrintStar10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+        <state relative-caret-position="618">
+          <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/baekjoon/P2447_PrintStar10.java">
+    <entry file="file://$PROJECT_DIR$/src/baekjoon/P4355_Seoroso.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="48" column="43" lean-forward="true" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+        <state relative-caret-position="311">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
