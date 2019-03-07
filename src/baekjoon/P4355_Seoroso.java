@@ -47,8 +47,8 @@ public class P4355_Seoroso {
                     temp++;
                 }
 
-                for(Soinsoo s : soinsoos){
-                    result*=(s.number-1)*Math.pow(s.number,s.pow-1);
+                for (Soinsoo s : soinsoos) {
+                    result *= (s.number - 1) * Math.pow(s.number, s.pow - 1);
                 }
 
                 sb.append(result).append('\n');
