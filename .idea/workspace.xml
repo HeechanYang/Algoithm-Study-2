@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="[ADD] [Baekjoon] 2504. 괄호의 값. Close #48">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/MontyHall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/P10972_NextSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swexpertacademy/P5644_WirelessCharging.java" afterDir="false" />
+    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="[ADD] 5644. [모의 SW 역량테스트] 무선 충전. Close #51">
+      <change afterPath="$PROJECT_DIR$/src/swexpertacademy/P1258_FindMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm Study/baekjoon/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,53 +14,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/baekjoon/MontyHall.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/baekjoon/P10972_NextSequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P5644_WirelessCharging.java">
+        <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P1258_FindMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="790">
-              <caret line="100" column="61" selection-start-line="100" selection-start-column="61" selection-end-line="100" selection-end-column="61" />
+            <state relative-caret-position="372">
+              <caret line="48" column="65" selection-start-line="48" selection-start-column="65" selection-end-line="48" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1993#1994#0" expanded="true" />
-                <element signature="e#2029#2030#0" expanded="true" />
-                <element signature="e#1386#1387#0" expanded="true" />
-                <element signature="e#1425#1426#0" expanded="true" />
-                <element signature="e#1464#1465#0" expanded="true" />
-                <element signature="e#1506#1507#0" expanded="true" />
-                <element signature="e#4614#4615#0" expanded="true" />
-                <element signature="e#4687#4688#0" expanded="true" />
-                <element signature="e#2487#2488#0" expanded="true" />
-                <element signature="e#2519#2520#0" expanded="true" />
-                <element signature="e#2548#2549#0" expanded="true" />
-                <element signature="e#2580#2581#0" expanded="true" />
+                <element signature="e#811#812#0" expanded="true" />
+                <element signature="e#843#844#0" expanded="true" />
+                <element signature="e#872#873#0" expanded="true" />
+                <element signature="e#904#905#0" expanded="true" />
+                <element signature="e#2401#2402#0" expanded="true" />
+                <element signature="e#2433#2434#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/input_sample/sample_input_5644.txt">
+        <entry file="file://$PROJECT_DIR$/input_sample/sample_input_1258.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="53" lean-forward="true" selection-end-line="40" />
+            <state relative-caret-position="95">
+              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -124,7 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/swexpertacademy/P6782_RootGame.java" />
         <option value="$PROJECT_DIR$/src/algorithmjobs/ProblemB.java" />
         <option value="$PROJECT_DIR$/src/algorithmjobs/ProblemD.java" />
         <option value="$PROJECT_DIR$/src/algorithmjobs/ProblemA.java" />
@@ -173,8 +144,9 @@
         <option value="$PROJECT_DIR$/src/baekjoon/P2504_ValueOfBracket.java" />
         <option value="$PROJECT_DIR$/src/baekjoon/Main.java" />
         <option value="$PROJECT_DIR$/src/baekjoon/MontyHall.java" />
-        <option value="$PROJECT_DIR$/src/baekjoon/P10972_NextSequence.java" />
         <option value="$PROJECT_DIR$/src/swexpertacademy/P5644_WirelessCharging.java" />
+        <option value="$PROJECT_DIR$/src/baekjoon/P10972_NextSequence.java" />
+        <option value="$PROJECT_DIR$/src/swexpertacademy/P1258_FindMatrix.java" />
       </list>
     </option>
   </component>
@@ -218,12 +190,6 @@
               <item name="Algorithm Study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm Study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm Study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="swexpertacademy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -237,7 +203,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/yhc94/IdeaProjects/Algorithm Study/src/5653_input.txt" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552489718216" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552493593259" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Gings-Server" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -266,7 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P5644_WirelessCharging">
+  <component name="RunManager" selected="Application.P1258_FindMatrix">
     <configuration name="MontyHall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baekjoon.MontyHall" />
       <module name="Algorithm Study" />
@@ -295,13 +261,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1867_RemoveStone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.P1867_RemoveStone" />
+    <configuration name="P1258_FindMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swexpertacademy.P1258_FindMatrix" />
       <module name="Algorithm Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekjoon.*" />
+          <option name="PATTERN" value="swexpertacademy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,8 +275,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2504_ValueOfBracket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.P2504_ValueOfBracket" />
+    <configuration name="P1867_RemoveStone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.P1867_RemoveStone" />
       <module name="Algorithm Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -361,17 +327,17 @@
     <list>
       <item itemvalue="Application.P1867_RemoveStone" />
       <item itemvalue="Application.MontyHall" />
-      <item itemvalue="Application.P2504_ValueOfBracket" />
       <item itemvalue="Application.P10972_NextSequence" />
       <item itemvalue="Application.P5644_WirelessCharging" />
+      <item itemvalue="Application.P1258_FindMatrix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1258_FindMatrix" />
         <item itemvalue="Application.P5644_WirelessCharging" />
         <item itemvalue="Application.P10972_NextSequence" />
         <item itemvalue="Application.MontyHall" />
         <item itemvalue="Application.P1867_RemoveStone" />
-        <item itemvalue="Application.P2504_ValueOfBracket" />
       </list>
     </recent_temporary>
   </component>
@@ -435,21 +401,7 @@
       <workItem from="1551939710821" duration="95000" />
       <workItem from="1551939814186" duration="61000" />
       <workItem from="1551969674862" duration="11365000" />
-      <workItem from="1552385574478" duration="9755000" />
-    </task>
-    <task id="LOCAL-00004" summary="[FIX] fix link error">
-      <created>1543512069907</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1543512069907</updated>
-    </task>
-    <task id="LOCAL-00005" summary="[ADD] 4013. SpecialMagnet">
-      <created>1543750101000</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1543750101000</updated>
+      <workItem from="1552385574478" duration="13287000" />
     </task>
     <task id="LOCAL-00006" summary="[FIX] 4013. SpecialMagnet">
       <created>1543761334838</created>
@@ -780,11 +732,25 @@
       <option name="project" value="LOCAL" />
       <updated>1551970069404</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="[ADD] 5644. [모의 SW 역량테스트] 무선 충전. Close #52">
+      <created>1552489635114</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1552489635114</updated>
+    </task>
+    <task id="LOCAL-00054" summary="[ADD] 5644. [모의 SW 역량테스트] 무선 충전. Close #51">
+      <created>1552489727430</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1552489727430</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="332729000" />
+    <option name="totallyTimeSpent" value="336261000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -859,8 +825,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="[ADD] Solving for Codeforces Round #535 (Div. 3). Problem C. Closes #18." />
-    <MESSAGE value="[ADD] Solving for Codeforces Round #535 (Div. 3). Problem D. Closes #19." />
     <MESSAGE value="[UPDATE] Update class name" />
     <MESSAGE value="[ADD] Solving for Codeforces #535 to README.md" />
     <MESSAGE value="[ADD] [Baekjoon] 1058. Friend" />
@@ -884,20 +848,12 @@
     <MESSAGE value="[ADD] [Baekjoon] 2447. 별찍기 - 10. Close #45" />
     <MESSAGE value="[ADD] [Baekjoon] 4355. 서로소. Close #46" />
     <MESSAGE value="[ADD] [Baekjoon] 2504. 괄호의 값. Close #48" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD] [Baekjoon] 2504. 괄호의 값. Close #48" />
+    <MESSAGE value="[ADD] 5644. [모의 SW 역량테스트] 무선 충전. Close #52" />
+    <MESSAGE value="[ADD] 5644. [모의 SW 역량테스트] 무선 충전. Close #51" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] 5644. [모의 SW 역량테스트] 무선 충전. Close #51" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P6782_RootGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithmjobs/ProblemB.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/AbstractStringBuilder.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/StringBuilder.java" />
     <entry file="file://$PROJECT_DIR$/src/algorithmjobs/ProblemA.java">
@@ -1246,13 +1202,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/baekjoon/MontyHall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/baekjoon/P2504_ValueOfBracket.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1710">
@@ -1301,13 +1250,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/baekjoon/P10972_NextSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/input_sample/sample_input_5644.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -1317,8 +1259,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P5644_WirelessCharging.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="790">
-          <caret line="100" column="61" selection-start-line="100" selection-start-column="61" selection-end-line="100" selection-end-column="61" />
+        <state relative-caret-position="150">
+          <caret line="106" column="17" lean-forward="true" selection-start-line="106" selection-start-column="17" selection-end-line="106" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1993#1994#0" expanded="true" />
@@ -1333,6 +1275,43 @@
             <element signature="e#2519#2520#0" expanded="true" />
             <element signature="e#2548#2549#0" expanded="true" />
             <element signature="e#2580#2581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baekjoon/P10972_NextSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-103">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baekjoon/MontyHall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_sample/sample_input_1258.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P1258_FindMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="48" column="65" selection-start-line="48" selection-start-column="65" selection-end-line="48" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#904#905#0" expanded="true" />
+            <element signature="e#2401#2402#0" expanded="true" />
+            <element signature="e#2433#2434#0" expanded="true" />
           </folding>
         </state>
       </provider>
