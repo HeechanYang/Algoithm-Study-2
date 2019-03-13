@@ -5,8 +5,8 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /**
- * https://www.acmicpc.net/problem/2504
- * 2504. 괄호의 값
+ * https://www.acmicpc.net/problem/10972
+ * 10972. 다음 순열
  */
 
 public class P10972_NextSequence {
@@ -57,8 +57,8 @@ public class P10972_NextSequence {
                     sb.append(arr[i]).append(' ');
                 }
 
-                for (int i = 0; i < tempArr.length; i++) {
-                    sb.append(tempArr[i]).append(' ');
+                for (int i1 : tempArr) {
+                    sb.append(i1).append(' ');
                 }
 
                 bw.write(sb.toString());
