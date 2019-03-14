@@ -2,7 +2,6 @@ package swexpertacademy;
 
 import java.io.*;
 import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.List;
 import java.util.StringTokenizer;
 
@@ -54,15 +53,11 @@ public class P1258_FindMatrix {
                     }
                 }
 
-                matrices.sort(new Comparator<Matrix>() {
-                    @Override
-                    public int compare(Matrix o1, Matrix o2) {
-
-                        if (o1.getSize() == o2.getSize()) {
-                            return o2.getHeight() - o1.getHeight();
-                        } else {
-                            return o1.getSize() - o2.getSize();
-                        }
+                matrices.sort((o1, o2) -> {
+                    if (o1.getSize() == o2.getSize()) {
+                        return o2.getHeight() - o1.getHeight();
+                    } else {
+                        return o1.getSize() - o2.getSize();
                     }
                 });
                 sb.append('#').append(t).append(' ').append(matrices.size()).append(' ');
