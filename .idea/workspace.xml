@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="[ADD] 1258. [S/W 문제해결 응용] 7일차 - 행렬찾기. Close #8">
-      <change afterPath="$PROJECT_DIR$/src/swexpertacademy/P1259_MetalStick.java" afterDir="false" />
+    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="[ADD] 1259. [S/W 문제해결 응용] 7일차 - 금속막대. Close #8">
+      <change afterPath="$PROJECT_DIR$/solving/2019_03_13_B10972_NextSequence.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/swexpertacademy/P1258_FindMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swexpertacademy/P1258_FindMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/P10972_NextSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/P10972_NextSequence.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,28 +14,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P1259_MetalStick.java">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/baekjoon/P1058_Friend.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="72" selection-start-line="72" selection-end-line="72" />
+            <state relative-caret-position="290">
+              <caret line="78" column="15" lean-forward="true" selection-start-line="78" selection-start-column="15" selection-end-line="78" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#853#854#0" expanded="true" />
-                <element signature="e#888#889#0" expanded="true" />
-                <element signature="e#922#923#0" expanded="true" />
-                <element signature="e#959#960#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/input_sample/sample_input_1259.txt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/baekjoon/P10972_NextSequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+            <state relative-caret-position="323">
+              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="71" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/solving/2019_03_13_B10972_NextSequence.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="494">
+                <caret line="41" selection-start-line="36" selection-end-line="41" />
+                <folding>
+                  <element signature="imports" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -78,6 +89,7 @@
       <find>add</find>
       <find>put(</find>
       <find>add(</find>
+      <find>26</find>
     </findStrings>
     <replaceStrings>
       <replace>timeAttack</replace>
@@ -95,15 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithmjobs/ProblemD.java" />
-        <option value="$PROJECT_DIR$/src/algorithmjobs/ProblemA.java" />
-        <option value="$PROJECT_DIR$/src/algorithmjobs/ProblemC.java" />
-        <option value="$PROJECT_DIR$/src/baekjoon/P2493_SequenceSum.java" />
-        <option value="$PROJECT_DIR$/src/baekjoon/P2493_Top.java" />
-        <option value="$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare.java" />
-        <option value="$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare_SegmentTree.java" />
-        <option value="$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare_DevideAndConquer.java" />
-        <option value="$PROJECT_DIR$/src/codeforces/Problem5.java" />
         <option value="$PROJECT_DIR$/src/codeforces/Demo1.java" />
         <option value="$PROJECT_DIR$/src/codeforces/Demo2.java" />
         <option value="$PROJECT_DIR$/../CodingTest/src/D_kakaopay_2019_01_31/Demo2.java" />
@@ -143,17 +146,26 @@
         <option value="$PROJECT_DIR$/src/baekjoon/Main.java" />
         <option value="$PROJECT_DIR$/src/baekjoon/MontyHall.java" />
         <option value="$PROJECT_DIR$/src/swexpertacademy/P5644_WirelessCharging.java" />
-        <option value="$PROJECT_DIR$/src/baekjoon/P10972_NextSequence.java" />
         <option value="$PROJECT_DIR$/src/swexpertacademy/P1258_FindMatrix.java" />
         <option value="$PROJECT_DIR$/src/swexpertacademy/P1259_MetalStick.java" />
+        <option value="$PROJECT_DIR$/src/Line/ProblemB.java" />
+        <option value="$PROJECT_DIR$/src/Line/ProblemC.java" />
+        <option value="$PROJECT_DIR$/src/Line/ProblemE2.java" />
+        <option value="$PROJECT_DIR$/src/Line/ProblemD.java" />
+        <option value="$PROJECT_DIR$/src/Line/ProblemA.java" />
+        <option value="$PROJECT_DIR$/src/Line/ProblemD2.java" />
+        <option value="$PROJECT_DIR$/src/Line/ProblemE.java" />
+        <option value="$PROJECT_DIR$/../Line/src/CodingTest20190316/ProblemE.java" />
+        <option value="$PROJECT_DIR$/src/baekjoon/P10972_NextSequence.java" />
+        <option value="$PROJECT_DIR$/solving/2019_03_13_B10972_NextSequence.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -164,6 +176,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,20 +192,36 @@
             <path>
               <item name="Algorithm Study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm Study" type="462c0819:PsiDirectoryNode" />
+              <item name="solving" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm Study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm Study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithmjobs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm Study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/yhc94/IdeaProjects/Algorithm Study/src/5653_input.txt" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552535412258" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552740989315" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Gings-Server" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -200,6 +229,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Line" />
       <recent name="baekjoon" />
       <recent name="codeforces" />
       <recent name="algorithmjobs" />
@@ -221,14 +251,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P1259_MetalStick">
-    <configuration name="MontyHall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.MontyHall" />
+  <component name="RunManager" selected="Application.ProblemE">
+    <configuration name="ProblemA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Line.ProblemA" />
       <module name="Algorithm Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekjoon.*" />
+          <option name="PATTERN" value="Line.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,13 +266,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P10972_NextSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.P10972_NextSequence" />
+    <configuration name="ProblemB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Line.ProblemB" />
       <module name="Algorithm Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekjoon.*" />
+          <option name="PATTERN" value="Line.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,13 +280,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1258_FindMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swexpertacademy.P1258_FindMatrix" />
+    <configuration name="ProblemC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Line.ProblemC" />
       <module name="Algorithm Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swexpertacademy.*" />
+          <option name="PATTERN" value="Line.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,13 +294,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1259_MetalStick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swexpertacademy.P1259_MetalStick" />
+    <configuration name="ProblemD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Line.ProblemD" />
       <module name="Algorithm Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swexpertacademy.*" />
+          <option name="PATTERN" value="Line.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,13 +308,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P5644_WirelessCharging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swexpertacademy.P5644_WirelessCharging" />
+    <configuration name="ProblemE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Line.ProblemE" />
       <module name="Algorithm Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swexpertacademy.*" />
+          <option name="PATTERN" value="Line.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,19 +344,18 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MontyHall" />
-      <item itemvalue="Application.P10972_NextSequence" />
-      <item itemvalue="Application.P5644_WirelessCharging" />
-      <item itemvalue="Application.P1258_FindMatrix" />
-      <item itemvalue="Application.P1259_MetalStick" />
+      <item itemvalue="Application.ProblemA" />
+      <item itemvalue="Application.ProblemB" />
+      <item itemvalue="Application.ProblemC" />
+      <item itemvalue="Application.ProblemD" />
+      <item itemvalue="Application.ProblemE" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P1259_MetalStick" />
-        <item itemvalue="Application.P1258_FindMatrix" />
-        <item itemvalue="Application.P5644_WirelessCharging" />
-        <item itemvalue="Application.P10972_NextSequence" />
-        <item itemvalue="Application.MontyHall" />
+        <item itemvalue="Application.ProblemE" />
+        <item itemvalue="Application.ProblemD" />
+        <item itemvalue="Application.ProblemC" />
+        <item itemvalue="Application.ProblemB" />
       </list>
     </recent_temporary>
   </component>
@@ -390,14 +419,12 @@
       <workItem from="1551939710821" duration="95000" />
       <workItem from="1551939814186" duration="61000" />
       <workItem from="1551969674862" duration="11365000" />
-      <workItem from="1552385574478" duration="22760000" />
-    </task>
-    <task id="LOCAL-00007" summary="[ADD] 4014. ConstructAirstrip, But success only 40 cases out of 50.">
-      <created>1544188680586</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1544188680586</updated>
+      <workItem from="1552385574478" duration="23597000" />
+      <workItem from="1552540184053" duration="1795000" />
+      <workItem from="1552698167721" duration="13399000" />
+      <workItem from="1552726266846" duration="644000" />
+      <workItem from="1552736043269" duration="7000" />
+      <workItem from="1552739828351" duration="1160000" />
     </task>
     <task id="LOCAL-00008" summary="[UPDATE] 4014. ConstructAirstrip Success">
       <created>1544364861196</created>
@@ -735,24 +762,31 @@
       <option name="project" value="LOCAL" />
       <updated>1552493619299</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="[ADD] 1259. [S/W 문제해결 응용] 7일차 - 금속막대. Close #8">
+      <created>1552535470736</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1552535470736</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="345734000" />
+    <option name="totallyTimeSpent" value="363576000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1552" height="840" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21162046" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2272118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.329718" />
@@ -762,7 +796,7 @@
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39684814" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.35683298" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.3555241" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -814,7 +848,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="[ADD] Solving for Codeforces #535 to README.md" />
     <MESSAGE value="[ADD] [Baekjoon] 1058. Friend" />
     <MESSAGE value="[ADD] [Baekjoon] 1005. ACM Craft. Closes #26." />
     <MESSAGE value="[ADD] [Baekjoon] 1004. Young Prince. Closes #28." />
@@ -839,87 +872,11 @@
     <MESSAGE value="[ADD] 5644. [모의 SW 역량테스트] 무선 충전. Close #52" />
     <MESSAGE value="[ADD] 5644. [모의 SW 역량테스트] 무선 충전. Close #51" />
     <MESSAGE value="[ADD] 1258. [S/W 문제해결 응용] 7일차 - 행렬찾기. Close #8" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD] 1258. [S/W 문제해결 응용] 7일차 - 행렬찾기. Close #8" />
+    <MESSAGE value="[ADD] 1259. [S/W 문제해결 응용] 7일차 - 금속막대. Close #8" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] 1259. [S/W 문제해결 응용] 7일차 - 금속막대. Close #8" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithmjobs/ProblemA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithmjobs/ProblemD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithmjobs/ProblemC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/baekjoon/P2493_Top.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="617">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="617">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/baekjoon/P6549_BiggestSquare_DevideAndConquer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="30" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CodingTest/src/D_kakaopay_2019_01_31/Demo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CodingTest/src/D_kakaopay_2019_01_31/Demo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/ArrayIndexOutOfBoundsException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -1013,16 +970,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/baekjoon/P1058_Friend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="78" column="15" lean-forward="true" selection-start-line="78" selection-start-column="15" selection-end-line="78" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1266,13 +1213,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/baekjoon/P10972_NextSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-103">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/baekjoon/MontyHall.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -1297,24 +1237,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/input_sample/sample_input_1259.txt">
+    <entry file="file://$PROJECT_DIR$/src/Line/ProblemE2.java" />
+    <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P1259_MetalStick.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+        <state relative-caret-position="619">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P1259_MetalStick.java">
+    <entry file="file://$PROJECT_DIR$/../Line/src/CodingTest20190316/ProblemE.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        <state relative-caret-position="145">
+          <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#853#854#0" expanded="true" />
-            <element signature="e#888#889#0" expanded="true" />
-            <element signature="e#922#923#0" expanded="true" />
-            <element signature="e#959#960#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Line/src/CodingTest20190316/ProblemD2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Line/src/CodingTest20190316/ProblemD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Line/src/CodingTest20190316/ProblemC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Line/src/CodingTest20190316/ProblemB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="54" column="14" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Line/src/CodingTest20190316/ProblemA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_sample/sample_input_1259.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="22" selection-end-line="20" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baekjoon/P1058_Friend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="78" column="15" lean-forward="true" selection-start-line="78" selection-start-column="15" selection-end-line="78" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solving/2019_03_13_B10972_NextSequence.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="494">
+            <caret line="41" selection-start-line="36" selection-end-line="41" />
+            <folding>
+              <element signature="imports" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baekjoon/P10972_NextSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="71" selection-end-column="40" />
         </state>
       </provider>
     </entry>
