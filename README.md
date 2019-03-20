@@ -83,3 +83,8 @@
 - [[백준온라인] 1012. 유기농 배추](solving/2019_02_26_B1012_OrganicCabbage.md)
 - [[백준온라인] 1026. 보물](solving/2019_02_26_B1026_Treasure.md)
 
+## 2019.03.13.(수)
+
+- [[SW Academy] 5644. [모의 SW 역량테스트] 무선 충전](solving/2019_03_13_5644_WirelessCharging.md)
+- [[백준온라인] 10972. 다음 순열](solving/2019_03_13_B10972_NextSequence.md)
+
