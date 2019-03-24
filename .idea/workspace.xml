@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="[ADD] Solving for 5644. [모의 SW 역량테스트] 무선 충전. Close #54.">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/step/P1065_HanNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/step/P2448_Star11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/step/P4673_SelfNumber.java" afterDir="false" />
+    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="[BAEKJOON] 단계별로 풀어보기 - 함수 사용하기. Close #55">
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/step/P1152_NumberOfWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/step/P2577_NumberOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/step/P2920_Scale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/step/P8958_OXQuiz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,8 +29,56 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/baekjoon/step/P1065_HanNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+            <state relative-caret-position="285">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/baekjoon/step/P2448_Star11.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/baekjoon/step/P1152_NumberOfWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/baekjoon/step/P2577_NumberOfNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/baekjoon/step/P8958_OXQuiz.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="28" column="21" lean-forward="true" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/baekjoon/step/P2920_Scale.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="20" column="36" lean-forward="true" selection-end-line="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,12 +87,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/baekjoon/step/P2448_Star11.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/baekjoon/step/P10039_AverageScore.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -102,11 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/codeforces/Problem3.java" />
-        <option value="$PROJECT_DIR$/src/codeforces/Problem4.java" />
-        <option value="$PROJECT_DIR$/src/codeforces/ProblemE.java" />
-        <option value="$PROJECT_DIR$/solving/2019_02_01_Codeforce_535.md" />
-        <option value="$PROJECT_DIR$/src/codeforces/ProblemE1.java" />
         <option value="$PROJECT_DIR$/src/codeforces/ProblemE2.java" />
         <option value="$PROJECT_DIR$/src/codeforces/ProblemF.java" />
         <option value="$PROJECT_DIR$/src/baekjoon/P1058_Friend.java" />
@@ -153,13 +193,18 @@
         <option value="$PROJECT_DIR$/src/baekjoon/step/P1065_HanNumber.java" />
         <option value="$PROJECT_DIR$/src/baekjoon/step/P2448_star11.java" />
         <option value="$PROJECT_DIR$/src/baekjoon/step/P2448_Star11.java" />
+        <option value="$PROJECT_DIR$/src/baekjoon/step/P1152_NumberOfWords.java" />
+        <option value="$PROJECT_DIR$/src/baekjoon/step/P2577_NumberOfNumber.java" />
+        <option value="$PROJECT_DIR$/src/baekjoon/step/P8958_OXQuiz.java" />
+        <option value="$PROJECT_DIR$/src/baekjoon/step/P2920_Scale.java" />
+        <option value="$PROJECT_DIR$/src/baekjoon/step/P10039_AverageScore.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
+    <option name="x" value="-10" />
     <option name="width" value="1935" />
-    <option name="height" value="1039" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -169,6 +214,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,7 +260,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -222,7 +267,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/yhc94/IdeaProjects/Algorithm Study/src/5653_input.txt" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553243019716" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553436249453" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Gings-Server" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -252,9 +297,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P1065_HanNumber">
-    <configuration name="P1065_HanNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.step.P1065_HanNumber" />
+  <component name="RunManager" selected="Application.P10039_AverageScore">
+    <configuration name="P10039_AverageScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.step.P10039_AverageScore" />
       <module name="Algorithm Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -267,8 +312,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P4673_SelfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.step.P4673_SelfNumber" />
+    <configuration name="P1152_NumberOfWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.step.P1152_NumberOfWords" />
       <module name="Algorithm Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -281,13 +326,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Line.ProblemC" />
+    <configuration name="P2577_NumberOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.step.P2577_NumberOfNumber" />
       <module name="Algorithm Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Line.*" />
+          <option name="PATTERN" value="baekjoon.step.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,13 +340,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Line.ProblemD" />
+    <configuration name="P2920_Scale" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.step.P2920_Scale" />
       <module name="Algorithm Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Line.*" />
+          <option name="PATTERN" value="baekjoon.step.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,13 +354,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Line.ProblemE" />
+    <configuration name="P8958_OXQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.step.P8958_OXQuiz" />
       <module name="Algorithm Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Line.*" />
+          <option name="PATTERN" value="baekjoon.step.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -345,19 +390,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ProblemC" />
-      <item itemvalue="Application.ProblemD" />
-      <item itemvalue="Application.ProblemE" />
-      <item itemvalue="Application.P4673_SelfNumber" />
-      <item itemvalue="Application.P1065_HanNumber" />
+      <item itemvalue="Application.P1152_NumberOfWords" />
+      <item itemvalue="Application.P2577_NumberOfNumber" />
+      <item itemvalue="Application.P8958_OXQuiz" />
+      <item itemvalue="Application.P2920_Scale" />
+      <item itemvalue="Application.P10039_AverageScore" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P1065_HanNumber" />
-        <item itemvalue="Application.P4673_SelfNumber" />
-        <item itemvalue="Application.ProblemE" />
-        <item itemvalue="Application.ProblemD" />
-        <item itemvalue="Application.ProblemC" />
+        <item itemvalue="Application.P10039_AverageScore" />
+        <item itemvalue="Application.P2920_Scale" />
+        <item itemvalue="Application.P8958_OXQuiz" />
+        <item itemvalue="Application.P2577_NumberOfNumber" />
+        <item itemvalue="Application.P1152_NumberOfWords" />
       </list>
     </recent_temporary>
   </component>
@@ -429,14 +474,9 @@
       <workItem from="1552739828351" duration="1421000" />
       <workItem from="1552747251948" duration="602000" />
       <workItem from="1552961303212" duration="8328000" />
-      <workItem from="1553242283234" duration="642000" />
-    </task>
-    <task id="LOCAL-00011" summary="[ADD] 1245. BalancePoint Code and Solving">
-      <created>1546442333112</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1546442333112</updated>
+      <workItem from="1553242283234" duration="768000" />
+      <workItem from="1553386182009" duration="14000" />
+      <workItem from="1553434772893" duration="1325000" />
     </task>
     <task id="LOCAL-00012" summary="[ADD] 1247. OptimalPath">
       <created>1546455520883</created>
@@ -774,17 +814,23 @@
       <option name="project" value="LOCAL" />
       <updated>1553059412205</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="[BAEKJOON] 단계별로 풀어보기 - 함수 사용하기. Close #55">
+      <created>1553243039062</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1553243039062</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="373409000" />
+    <option name="totallyTimeSpent" value="374874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21677852" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22281879" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -801,7 +847,7 @@
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39684814" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="10" weight="0.35460994" />
+      <window_info anchor="bottom" id="Run" order="10" visible="true" weight="0.35460994" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -853,7 +899,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="[ADD] [Baekjoon] 1004. Young Prince. Closes #28." />
     <MESSAGE value="[ADD] [Baekjoon] 1007. VectorMatching. Closes #31." />
     <MESSAGE value="[UPDATE] Make code more OOPly" />
     <MESSAGE value="[ADD] Solving for [Baekjoon] 1007. VectorMatching. Closes ." />
@@ -878,54 +923,11 @@
     <MESSAGE value="[ADD] 1259. [S/W 문제해결 응용] 7일차 - 금속막대. Close #8" />
     <MESSAGE value="[ADD] [BAEKJOON] Solving for 10972번. 다음 순열. Close #53." />
     <MESSAGE value="[ADD] Solving for 5644. [모의 SW 역량테스트] 무선 충전. Close #54." />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD] Solving for 5644. [모의 SW 역량테스트] 무선 충전. Close #54." />
+    <MESSAGE value="[BAEKJOON] 단계별로 풀어보기 - 함수 사용하기. Close #55" />
+    <option name="LAST_COMMIT_MESSAGE" value="[BAEKJOON] 단계별로 풀어보기 - 함수 사용하기. Close #55" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solving/2019_02_01_Codeforce_535.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="228">
-            <caret line="12" selection-start-line="12" selection-end-line="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm Study.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codeforces/ProblemB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codeforces/ProblemC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="20" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codeforces/ProblemD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-323">
-          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/codeforces/ProblemA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -1331,20 +1333,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/baekjoon/step/P1065_HanNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        <state relative-caret-position="285">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baekjoon/step/P2448_Star11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baekjoon/step/P1152_NumberOfWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/baekjoon/step/P2448_Star11.java">
+    <entry file="file://$PROJECT_DIR$/src/baekjoon/step/P2577_NumberOfNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        <state relative-caret-position="291">
+          <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baekjoon/step/P8958_OXQuiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="28" column="21" lean-forward="true" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baekjoon/step/P2920_Scale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="20" column="36" lean-forward="true" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baekjoon/step/P10039_AverageScore.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
