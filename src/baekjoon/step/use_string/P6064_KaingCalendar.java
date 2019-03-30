@@ -21,17 +21,37 @@ public class P6064_KaingCalendar {
                 int x = Integer.parseInt(st.nextToken());
                 int y = Integer.parseInt(st.nextToken());
 
-                if (x < 1 || x > M || y < 1 || y > M) {
-                    sb.append(-1);
-                } else {
+                int cnt = x % (M + 1);
+                int tempY = x;
 
+                for (int i = 0; i < N; i++) {
+                    int ty = tempY % N == 0 ? N : tempY % N;
+                    if (ty == y) {
+                        break;
+                    }
+
+                    tempY = ty + M;
+                    cnt += M;
                 }
 
-                sb.append('\n');
+                sb.append(cnt > lcm(M, N) ? "-1" : cnt).append('\n');
             }
 
             bw.write(sb.toString());
             bw.flush();
         }
+    }
+
+    private static int gcd(int a, int b) {
+        while (b != 0) {
+            int temp = a % b;
+            a = b;
+            b = temp;
+        }
+        return a;
+    }
+
+    private static int lcm(int a, int b) {
+        return a * b / gcd(a, b);
     }
 }
