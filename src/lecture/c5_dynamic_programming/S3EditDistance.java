@@ -17,7 +17,7 @@ public class S3EditDistance {
         }
         for (int i = 1; i <= m; i++) {
             for (int j = 1; j <= n; j++) {
-                int alpha = S.charAt(i-1) != T.charAt(j-1) ? 1 : 0;
+                int alpha = S.charAt(i - 1) != T.charAt(j - 1) ? 1 : 0;
                 E[i][j] = min(E[i][j - 1] + 1, E[i - 1][j] + 1, E[i - 1][j - 1] + alpha);
             }
         }

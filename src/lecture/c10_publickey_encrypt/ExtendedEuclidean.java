@@ -16,7 +16,7 @@ public class ExtendedEuclidean {
         return extendedEuclideanGCD(d1, d2);
     }
 
-    // ax + by = c 에서 gcd(a, b), x, y의 값을 구하기 위한 '확장 유클리드 함수'
+    // as + bt = c 에서 gcd(a, b), s, t의 값을 구하기 위한 '확장 유클리드 함수'
     // a, b가 양의 정수이기 위해선 c가 gcd(a, b)의 배수여야 함
     private static Tuple extendedEuclideanGCD(Tuple d1, Tuple d2) {
         while (d1.getGcd() % d2.getGcd() != 0) {
@@ -32,10 +32,12 @@ public class ExtendedEuclidean {
         return d2;
     }
 
-    // a * s ≡ 1 (mod p)
-    // -> as + pt = 1
-    public static int getReverse(int a, int p){
-        Tuple tuple = extendedEuclideanGCD(a, p);
+
+    // a와 s가 (mod m)에 대해 역원일 때, a와 p를 알면 s를 구할 수 있음
+    // a * s ≡ 1 (mod m)
+    // -> as + mt = 1
+    public static int getReverse(int a, int m){
+        Tuple tuple = extendedEuclideanGCD(a, m);
 
         return tuple.getS();
     }
