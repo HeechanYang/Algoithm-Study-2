@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="[Programmers] TakeGroupPicture">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/algorithm/permutation/p10973_PrePermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/BriansWorries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/LittleFriendsCastle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swexpertacademy/P3752_TestScore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="93566e75-ca69-4dc3-aa5e-5f5bf277dcbb" name="Default" comment="etc">
+      <change afterPath="$PROJECT_DIR$/src/swexpertacademy/P2819_AdditionOfNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solving/2019_03_13_5644_WirelessCharging.md" beforeDir="false" afterPath="$PROJECT_DIR$/solving/2019_03_13_5644_WirelessCharging.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,15 +15,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/baekjoon/algorithm/permutation/p10974_WholePermutation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/baekjoon/algorithm/permutation/p10973_PrePermutation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
@@ -37,13 +23,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P3752_TestScore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+            <state relative-caret-position="323">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P2819_AdditionOfNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2155#2156#0" expanded="true" />
+                <element signature="e#2230#2231#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -127,7 +127,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>size()</find>
       <find>print</find>
       <find>initialca</find>
       <find>printA</find>
@@ -157,6 +156,7 @@
       <find>[</find>
       <find>0</find>
       <find>char c</find>
+      <find>1211121</find>
     </findStrings>
     <replaceStrings>
       <replace>timeAttack</replace>
@@ -176,7 +176,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/baekjoon/step/use_string/P5622_Dial.java" />
         <option value="$PROJECT_DIR$/src/baekjoon/step/use_string/P2941_CroatiaAlphabet.java" />
         <option value="$PROJECT_DIR$/src/baekjoon/step/FindRule/P2292_HouseOfBee.java" />
         <option value="$PROJECT_DIR$/src/baekjoon/step/FindRule/P1193_FindFraction.java" />
@@ -227,14 +226,15 @@
         <option value="$PROJECT_DIR$/src/baekjoon/algorithm/permutation/p10974_PrePermutation.java" />
         <option value="$PROJECT_DIR$/src/baekjoon/algorithm/permutation/p10973_PrePermutation.java" />
         <option value="$PROJECT_DIR$/src/swexpertacademy/P3752_TestScore.java" />
+        <option value="$PROJECT_DIR$/src/swexpertacademy/P2819_AdditionOfNumbers.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1939" />
-    <option name="height" value="1099" />
+    <option name="x" value="2198" />
+    <option name="y" value="151" />
+    <option name="width" value="1549" />
+    <option name="height" value="837" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -280,7 +280,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/yhc94/IdeaProjects/Algorithm Study/src/5653_input.txt" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567907877596" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567929759220" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../MIDISY~1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -312,14 +312,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P3752_TestScore">
-    <configuration name="KakaoFriendsColoringBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.KakaoFriendsColoringBook" />
+  <component name="RunManager" selected="Application.P2819_AdditionOfNumbers">
+    <configuration name="P2819_AdditionOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swexpertacademy.P2819_AdditionOfNumbers" />
       <module name="Algorithm Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.*" />
+          <option name="PATTERN" value="swexpertacademy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -405,19 +405,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.KakaoFriendsColoringBook" />
       <item itemvalue="Application.TakeGroupPicture" />
       <item itemvalue="Application.p10974_WholePermutation" />
       <item itemvalue="Application.p10973_PrePermutation" />
       <item itemvalue="Application.P3752_TestScore" />
+      <item itemvalue="Application.P2819_AdditionOfNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P2819_AdditionOfNumbers" />
         <item itemvalue="Application.P3752_TestScore" />
         <item itemvalue="Application.p10973_PrePermutation" />
         <item itemvalue="Application.p10974_WholePermutation" />
         <item itemvalue="Application.TakeGroupPicture" />
-        <item itemvalue="Application.KakaoFriendsColoringBook" />
       </list>
     </recent_temporary>
   </component>
@@ -526,21 +526,7 @@
       <workItem from="1566366608777" duration="8893000" />
       <workItem from="1566443709879" duration="8104000" />
       <workItem from="1566707581687" duration="6843000" />
-      <workItem from="1567871715922" duration="2393000" />
-    </task>
-    <task id="LOCAL-00024" summary="[ADD] Solving for Codeforces Round #535 (Div. 3). Problem A. Closes #16.">
-      <created>1549022795779</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1549022795779</updated>
-    </task>
-    <task id="LOCAL-00025" summary="[ADD] Solving for Codeforces Round #535 (Div. 3). Problem B. Closes #17.">
-      <created>1549022818262</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1549022818262</updated>
+      <workItem from="1567871715922" duration="10530000" />
     </task>
     <task id="LOCAL-00026" summary="[ADD] Solving for Codeforces Round #535 (Div. 3). Problem C. Closes #18.">
       <created>1549023130909</created>
@@ -871,17 +857,31 @@
       <option name="project" value="LOCAL" />
       <updated>1566709125952</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="[SWEA] 가능한 시험점수">
+      <created>1567907910466</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1567907910470</updated>
+    </task>
+    <task id="LOCAL-00074" summary="etc">
+      <created>1567907933133</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1567907933133</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="528025000" />
+    <option name="totallyTimeSpent" value="536162000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49779737" visible="true" weight="0.2872483" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49779737" visible="true" weight="0.22814499" />
       <window_info id="Structure" order="1" sideWeight="0.50220263" side_tool="true" weight="0.28322148" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -898,7 +898,7 @@
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39574468" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.35602838" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.27223426" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -950,8 +950,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="[ADD] [Baekjoon] 1012. 유기농 배추 bfs-&gt;dfs" />
-    <MESSAGE value="[ADD] Solving for [Baekjoon] 1012. 유기농 배추 bfs-&gt;dfs. Close #40" />
     <MESSAGE value="[ADD] [Baekjoon] 1026. 보물. Close #41" />
     <MESSAGE value="[ADD] Solving for [Baekjoon] 1026. 보물. Close #42" />
     <MESSAGE value="[ADD] [Baekjoon] 1867. 돌멩이 제거 (실패)" />
@@ -975,7 +973,9 @@
     <MESSAGE value="[Programmers] ColoringBook" />
     <MESSAGE value="[Programmers] TakeGroupPicture" />
     <MESSAGE value="[BAEKJOON] WholePermutation" />
-    <option name="LAST_COMMIT_MESSAGE" value="[BAEKJOON] WholePermutation" />
+    <MESSAGE value="[SWEA] 가능한 시험점수" />
+    <MESSAGE value="etc" />
+    <option name="LAST_COMMIT_MESSAGE" value="etc" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -986,13 +986,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/baekjoon/step/sort/P1181_SortWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/baekjoon/step/sort/P10989_SortNumbers3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1369,10 +1362,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P3752_TestScore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swexpertacademy/P2819_AdditionOfNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2155#2156#0" expanded="true" />
+            <element signature="e#2230#2231#0" expanded="true" />
           </folding>
         </state>
       </provider>
