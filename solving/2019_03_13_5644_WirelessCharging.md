@@ -145,9 +145,9 @@ public class P5644_WirelessCharging {
                     st = new StringTokenizer(br.readLine());
                     int x = Integer.parseInt(st.nextToken());
                     int y = Integer.parseInt(st.nextToken());
-                    int c = Integer.parseInt(st.nextToken());
+                    int symbol = Integer.parseInt(st.nextToken());
                     int p = Integer.parseInt(st.nextToken());
-                    bcs[i] = new BC(new Coord(x, y), c, p);
+                    bcs[i] = new BC(new Coord(x, y), symbol, p);
                 }
 
                 Arrays.sort(bcs);
